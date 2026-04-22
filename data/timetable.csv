@@ -1,0 +1,2065 @@
+timetable_id,class,section,day,period,start_time,end_time,subject,teacher_id,teacher_name,room_id,is_lab,academic_year
+TT000001,1,A,Monday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-115,0,2025-26
+TT000002,1,A,Monday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-301,0,2025-26
+TT000003,1,A,Monday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-111,0,2025-26
+TT000004,1,A,Monday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-G01,0,2025-26
+TT000005,1,A,Monday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-G15,0,2025-26
+TT000006,1,A,Monday,6,11:05,11:45,Science,TCH0054,Yash Deshmukh,Room-304,0,2025-26
+TT000007,1,A,Monday,7,12:00,12:40,Science,TCH0038,Kavya Thakur,Room-105,0,2025-26
+TT000008,1,A,Monday,8,12:40,13:20,Science,TCH0040,Siddharth Deshpande,Room-103,0,2025-26
+TT000009,1,A,Tuesday,1,07:30,08:10,Science,TCH0046,Ahana Mahajan,Room-G07,0,2025-26
+TT000010,1,A,Tuesday,2,08:10,08:50,Science,TCH0024,Kabir Das,Room-G10,0,2025-26
+TT000011,1,A,Tuesday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-215,0,2025-26
+TT000012,1,A,Tuesday,4,09:45,10:25,Social Studies,TCH0036,Kartik Bhat,Room-101,0,2025-26
+TT000013,1,A,Tuesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-214,0,2025-26
+TT000014,1,A,Tuesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-G02,0,2025-26
+TT000015,1,A,Tuesday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-106,0,2025-26
+TT000016,1,A,Tuesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-109,0,2025-26
+TT000017,1,A,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT000018,1,A,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000019,1,A,Wednesday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-207,0,2025-26
+TT000020,1,A,Wednesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-109,0,2025-26
+TT000021,1,A,Wednesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-306,0,2025-26
+TT000022,1,A,Wednesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-307,0,2025-26
+TT000023,1,A,Wednesday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-211,0,2025-26
+TT000024,1,A,Wednesday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-301,0,2025-26
+TT000025,1,A,Thursday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G11,0,2025-26
+TT000026,1,A,Thursday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-212,0,2025-26
+TT000027,1,A,Thursday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-306,1,2025-26
+TT000028,1,A,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G13,0,2025-26
+TT000029,1,A,Thursday,5,10:25,11:05,Science,TCH0062,Sahil Gaikwad,Room-210,0,2025-26
+TT000030,1,A,Thursday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT000031,1,A,Thursday,7,12:00,12:40,Science,TCH0045,Avni Sen,Room-313,0,2025-26
+TT000032,1,A,Thursday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-G02,0,2025-26
+TT000033,1,A,Friday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-302,0,2025-26
+TT000034,1,A,Friday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-105,0,2025-26
+TT000035,1,A,Friday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000036,1,A,Friday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-310,0,2025-26
+TT000037,1,A,Friday,5,10:25,11:05,Science,TCH0064,Zara Reddy,Room-303,0,2025-26
+TT000038,1,A,Friday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-309,0,2025-26
+TT000039,1,A,Friday,7,12:00,12:40,Science,TCH0061,Gauri Chauhan,Room-305,0,2025-26
+TT000040,1,A,Friday,8,12:40,13:20,Science,TCH0038,Kavya Thakur,Room-304,0,2025-26
+TT000041,1,A,Saturday,1,07:30,08:10,Science,TCH0037,Dev Rao,Room-310,0,2025-26
+TT000042,1,A,Saturday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-314,0,2025-26
+TT000043,1,A,Saturday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-205,0,2025-26
+TT000044,1,A,Saturday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-112,0,2025-26
+TT000045,1,A,Saturday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-207,0,2025-26
+TT000046,1,A,Saturday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-G03,0,2025-26
+TT000047,1,A,Saturday,7,12:00,12:40,Science,TCH0069,Isha Bhat,Room-309,0,2025-26
+TT000048,1,A,Saturday,8,12:40,13:20,Science,TCH0037,Dev Rao,Room-112,0,2025-26
+TT000049,1,B,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT000050,1,B,Monday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-114,0,2025-26
+TT000051,1,B,Monday,3,08:50,09:30,Hindi,TCH0063,Dhruv Mehta,Room-306,0,2025-26
+TT000052,1,B,Monday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-306,0,2025-26
+TT000053,1,B,Monday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-113,0,2025-26
+TT000054,1,B,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-G09,0,2025-26
+TT000055,1,B,Monday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-201,0,2025-26
+TT000056,1,B,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-210,0,2025-26
+TT000057,1,B,Tuesday,1,07:30,08:10,Science,TCH0073,Sneha Bhosale,Room-112,0,2025-26
+TT000058,1,B,Tuesday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-201,0,2025-26
+TT000059,1,B,Tuesday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G02,0,2025-26
+TT000060,1,B,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-314,0,2025-26
+TT000061,1,B,Tuesday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-G14,0,2025-26
+TT000062,1,B,Tuesday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-307,0,2025-26
+TT000063,1,B,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT000064,1,B,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-G03,0,2025-26
+TT000065,1,B,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000066,1,B,Wednesday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-307,0,2025-26
+TT000067,1,B,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-103,0,2025-26
+TT000068,1,B,Wednesday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-108,0,2025-26
+TT000069,1,B,Wednesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-108,1,2025-26
+TT000070,1,B,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-301,0,2025-26
+TT000071,1,B,Wednesday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-309,0,2025-26
+TT000072,1,B,Wednesday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-210,0,2025-26
+TT000073,1,B,Thursday,1,07:30,08:10,Science,TCH0054,Yash Deshmukh,Room-312,0,2025-26
+TT000074,1,B,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G03,0,2025-26
+TT000075,1,B,Thursday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-309,0,2025-26
+TT000076,1,B,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-102,0,2025-26
+TT000077,1,B,Thursday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-311,0,2025-26
+TT000078,1,B,Thursday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-G10,0,2025-26
+TT000079,1,B,Thursday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-108,0,2025-26
+TT000080,1,B,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000081,1,B,Friday,1,07:30,08:10,Science,TCH0077,Siya Ghosh,Room-G08,0,2025-26
+TT000082,1,B,Friday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-208,0,2025-26
+TT000083,1,B,Friday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-115,0,2025-26
+TT000084,1,B,Friday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-106,1,2025-26
+TT000085,1,B,Friday,5,10:25,11:05,Science,TCH0060,Trisha Pawar,Room-G03,0,2025-26
+TT000086,1,B,Friday,6,11:05,11:45,Science,TCH0013,Avni Ghosh,Room-G14,0,2025-26
+TT000087,1,B,Friday,7,12:00,12:40,Science,TCH0053,Siya Sharma,Room-315,0,2025-26
+TT000088,1,B,Friday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-204,0,2025-26
+TT000089,1,B,Saturday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-314,0,2025-26
+TT000090,1,B,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-102,0,2025-26
+TT000091,1,B,Saturday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-207,1,2025-26
+TT000092,1,B,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000093,1,B,Saturday,5,10:25,11:05,Science,TCH0054,Yash Deshmukh,Room-G14,0,2025-26
+TT000094,1,B,Saturday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-G08,0,2025-26
+TT000095,1,B,Saturday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-G12,0,2025-26
+TT000096,1,B,Saturday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-G02,0,2025-26
+TT000097,1,C,Monday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-307,0,2025-26
+TT000098,1,C,Monday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-G14,0,2025-26
+TT000099,1,C,Monday,3,08:50,09:30,Science,TCH0050,Aryan Singh,Room-214,0,2025-26
+TT000100,1,C,Monday,4,09:45,10:25,Science,TCH0028,Gauri Deshpande,Room-314,0,2025-26
+TT000101,1,C,Monday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-313,0,2025-26
+TT000102,1,C,Monday,6,11:05,11:45,Science,TCH0064,Zara Reddy,Room-G03,0,2025-26
+TT000103,1,C,Monday,7,12:00,12:40,Science,TCH0044,Siddharth Chatterjee,Room-208,0,2025-26
+TT000104,1,C,Monday,8,12:40,13:20,Science,TCH0038,Kavya Thakur,Room-G05,0,2025-26
+TT000105,1,C,Tuesday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-205,0,2025-26
+TT000106,1,C,Tuesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-306,0,2025-26
+TT000107,1,C,Tuesday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-G06,0,2025-26
+TT000108,1,C,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G14,0,2025-26
+TT000109,1,C,Tuesday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-G05,0,2025-26
+TT000110,1,C,Tuesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-114,0,2025-26
+TT000111,1,C,Tuesday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-310,0,2025-26
+TT000112,1,C,Tuesday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-315,0,2025-26
+TT000113,1,C,Wednesday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-108,0,2025-26
+TT000114,1,C,Wednesday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-G04,0,2025-26
+TT000115,1,C,Wednesday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-205,0,2025-26
+TT000116,1,C,Wednesday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-G04,0,2025-26
+TT000117,1,C,Wednesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-301,0,2025-26
+TT000118,1,C,Wednesday,6,11:05,11:45,Science,TCH0052,Divya Verma,Room-G03,0,2025-26
+TT000119,1,C,Wednesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-103,0,2025-26
+TT000120,1,C,Wednesday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-114,0,2025-26
+TT000121,1,C,Thursday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G05,0,2025-26
+TT000122,1,C,Thursday,2,08:10,08:50,Science,TCH0060,Trisha Pawar,Room-310,0,2025-26
+TT000123,1,C,Thursday,3,08:50,09:30,Science,TCH0059,Sara Pawar,Room-G04,0,2025-26
+TT000124,1,C,Thursday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-307,0,2025-26
+TT000125,1,C,Thursday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-211,1,2025-26
+TT000126,1,C,Thursday,6,11:05,11:45,Science,TCH0041,Vihaan Bhandari,Room-214,0,2025-26
+TT000127,1,C,Thursday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-101,0,2025-26
+TT000128,1,C,Thursday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-303,0,2025-26
+TT000129,1,C,Friday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-207,0,2025-26
+TT000130,1,C,Friday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-G06,0,2025-26
+TT000131,1,C,Friday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-215,0,2025-26
+TT000132,1,C,Friday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-201,1,2025-26
+TT000133,1,C,Friday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-104,0,2025-26
+TT000134,1,C,Friday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000135,1,C,Friday,7,12:00,12:40,Science,TCH0053,Siya Sharma,Room-303,0,2025-26
+TT000136,1,C,Friday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-G03,0,2025-26
+TT000137,1,C,Saturday,1,07:30,08:10,Hindi,TCH0015,Parth Chatterjee,Room-106,0,2025-26
+TT000138,1,C,Saturday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-209,0,2025-26
+TT000139,1,C,Saturday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-G04,0,2025-26
+TT000140,1,C,Saturday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-311,0,2025-26
+TT000141,1,C,Saturday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-G05,0,2025-26
+TT000142,1,C,Saturday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-212,0,2025-26
+TT000143,1,C,Saturday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-G14,0,2025-26
+TT000144,1,C,Saturday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-G11,1,2025-26
+TT000145,2,A,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-301,0,2025-26
+TT000146,2,A,Monday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-310,0,2025-26
+TT000147,2,A,Monday,3,08:50,09:30,Hindi,TCH0063,Dhruv Mehta,Room-313,0,2025-26
+TT000148,2,A,Monday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-304,0,2025-26
+TT000149,2,A,Monday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-110,0,2025-26
+TT000150,2,A,Monday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-308,0,2025-26
+TT000151,2,A,Monday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-G11,0,2025-26
+TT000152,2,A,Monday,8,12:40,13:20,Science,TCH0080,Angel Mahajan,Room-305,0,2025-26
+TT000153,2,A,Tuesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-203,0,2025-26
+TT000154,2,A,Tuesday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-210,0,2025-26
+TT000155,2,A,Tuesday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-G07,1,2025-26
+TT000156,2,A,Tuesday,4,09:45,10:25,Science,TCH0075,Isha Sen,Room-109,0,2025-26
+TT000157,2,A,Tuesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000158,2,A,Tuesday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-310,0,2025-26
+TT000159,2,A,Tuesday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-213,0,2025-26
+TT000160,2,A,Tuesday,8,12:40,13:20,Hindi,TCH0015,Parth Chatterjee,Room-313,0,2025-26
+TT000161,2,A,Wednesday,1,07:30,08:10,Science,TCH0009,Diya Shinde,Room-305,0,2025-26
+TT000162,2,A,Wednesday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-210,0,2025-26
+TT000163,2,A,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-201,0,2025-26
+TT000164,2,A,Wednesday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-311,0,2025-26
+TT000165,2,A,Wednesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-G07,0,2025-26
+TT000166,2,A,Wednesday,6,11:05,11:45,Science,TCH0056,Siya Mukherjee,Room-G01,0,2025-26
+TT000167,2,A,Wednesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-308,0,2025-26
+TT000168,2,A,Wednesday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-312,0,2025-26
+TT000169,2,A,Thursday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-G05,0,2025-26
+TT000170,2,A,Thursday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-312,0,2025-26
+TT000171,2,A,Thursday,3,08:50,09:30,Science,TCH0035,Lavanya Jain,Room-302,0,2025-26
+TT000172,2,A,Thursday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-G07,0,2025-26
+TT000173,2,A,Thursday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-202,0,2025-26
+TT000174,2,A,Thursday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-313,0,2025-26
+TT000175,2,A,Thursday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT000176,2,A,Thursday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-313,0,2025-26
+TT000177,2,A,Friday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-203,0,2025-26
+TT000178,2,A,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000179,2,A,Friday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000180,2,A,Friday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-111,1,2025-26
+TT000181,2,A,Friday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-215,0,2025-26
+TT000182,2,A,Friday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-215,0,2025-26
+TT000183,2,A,Friday,7,12:00,12:40,Science,TCH0028,Gauri Deshpande,Room-G10,0,2025-26
+TT000184,2,A,Friday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-207,0,2025-26
+TT000185,2,A,Saturday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-101,0,2025-26
+TT000186,2,A,Saturday,2,08:10,08:50,Science,TCH0005,Aanya Jadhav,Room-204,0,2025-26
+TT000187,2,A,Saturday,3,08:50,09:30,Science,TCH0027,Rishi Sinha,Room-307,0,2025-26
+TT000188,2,A,Saturday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-304,0,2025-26
+TT000189,2,A,Saturday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-315,0,2025-26
+TT000190,2,A,Saturday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-211,0,2025-26
+TT000191,2,A,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-205,0,2025-26
+TT000192,2,A,Saturday,8,12:40,13:20,Science,TCH0079,Ishaan Chauhan,Room-G15,0,2025-26
+TT000193,2,B,Monday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-204,0,2025-26
+TT000194,2,B,Monday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-205,0,2025-26
+TT000195,2,B,Monday,3,08:50,09:30,Science,TCH0080,Angel Mahajan,Room-204,0,2025-26
+TT000196,2,B,Monday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000197,2,B,Monday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-106,0,2025-26
+TT000198,2,B,Monday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-101,0,2025-26
+TT000199,2,B,Monday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-G01,0,2025-26
+TT000200,2,B,Monday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-109,0,2025-26
+TT000201,2,B,Tuesday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-307,0,2025-26
+TT000202,2,B,Tuesday,2,08:10,08:50,Science,TCH0028,Gauri Deshpande,Room-G14,0,2025-26
+TT000203,2,B,Tuesday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-109,0,2025-26
+TT000204,2,B,Tuesday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-G12,0,2025-26
+TT000205,2,B,Tuesday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-101,0,2025-26
+TT000206,2,B,Tuesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-G08,0,2025-26
+TT000207,2,B,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-113,0,2025-26
+TT000208,2,B,Tuesday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-202,0,2025-26
+TT000209,2,B,Wednesday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G10,0,2025-26
+TT000210,2,B,Wednesday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-109,0,2025-26
+TT000211,2,B,Wednesday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-111,0,2025-26
+TT000212,2,B,Wednesday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-G04,0,2025-26
+TT000213,2,B,Wednesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-211,0,2025-26
+TT000214,2,B,Wednesday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-106,0,2025-26
+TT000215,2,B,Wednesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G05,0,2025-26
+TT000216,2,B,Wednesday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-G06,0,2025-26
+TT000217,2,B,Thursday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-303,0,2025-26
+TT000218,2,B,Thursday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-206,0,2025-26
+TT000219,2,B,Thursday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-212,0,2025-26
+TT000220,2,B,Thursday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-212,0,2025-26
+TT000221,2,B,Thursday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-302,0,2025-26
+TT000222,2,B,Thursday,6,11:05,11:45,Social Studies,TCH0079,Ishaan Chauhan,Room-206,0,2025-26
+TT000223,2,B,Thursday,7,12:00,12:40,Science,TCH0057,Anika Bhosale,Room-109,0,2025-26
+TT000224,2,B,Thursday,8,12:40,13:20,Science,TCH0060,Trisha Pawar,Room-112,0,2025-26
+TT000225,2,B,Friday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-111,0,2025-26
+TT000226,2,B,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-103,0,2025-26
+TT000227,2,B,Friday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-305,0,2025-26
+TT000228,2,B,Friday,4,09:45,10:25,Science,TCH0049,Anvi Dubey,Room-G05,0,2025-26
+TT000229,2,B,Friday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-106,0,2025-26
+TT000230,2,B,Friday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-305,1,2025-26
+TT000231,2,B,Friday,7,12:00,12:40,Science,TCH0061,Gauri Chauhan,Room-213,0,2025-26
+TT000232,2,B,Friday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-310,0,2025-26
+TT000233,2,B,Saturday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-106,0,2025-26
+TT000234,2,B,Saturday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-112,0,2025-26
+TT000235,2,B,Saturday,3,08:50,09:30,Social Studies,TCH0006,Jiya Bhandari,Room-113,0,2025-26
+TT000236,2,B,Saturday,4,09:45,10:25,Science,TCH0066,Nikhil Shah,Room-206,0,2025-26
+TT000237,2,B,Saturday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-310,0,2025-26
+TT000238,2,B,Saturday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-105,0,2025-26
+TT000239,2,B,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G13,0,2025-26
+TT000240,2,B,Saturday,8,12:40,13:20,Social Studies,TCH0006,Jiya Bhandari,Room-215,0,2025-26
+TT000241,2,C,Monday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-313,0,2025-26
+TT000242,2,C,Monday,2,08:10,08:50,Science,TCH0052,Divya Verma,Room-309,0,2025-26
+TT000243,2,C,Monday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-313,0,2025-26
+TT000244,2,C,Monday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-205,0,2025-26
+TT000245,2,C,Monday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-104,0,2025-26
+TT000246,2,C,Monday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-206,0,2025-26
+TT000247,2,C,Monday,7,12:00,12:40,Science,TCH0007,Rudra Thakur,Room-301,0,2025-26
+TT000248,2,C,Monday,8,12:40,13:20,Hindi,TCH0063,Dhruv Mehta,Room-G09,0,2025-26
+TT000249,2,C,Tuesday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-204,0,2025-26
+TT000250,2,C,Tuesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-G11,0,2025-26
+TT000251,2,C,Tuesday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-209,0,2025-26
+TT000252,2,C,Tuesday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-G04,0,2025-26
+TT000253,2,C,Tuesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-212,0,2025-26
+TT000254,2,C,Tuesday,6,11:05,11:45,Science,TCH0039,Radhika Patil,Room-203,0,2025-26
+TT000255,2,C,Tuesday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-G12,0,2025-26
+TT000256,2,C,Tuesday,8,12:40,13:20,Science,TCH0075,Isha Sen,Room-G12,0,2025-26
+TT000257,2,C,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000258,2,C,Wednesday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-302,0,2025-26
+TT000259,2,C,Wednesday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-315,0,2025-26
+TT000260,2,C,Wednesday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-G01,0,2025-26
+TT000261,2,C,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT000262,2,C,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-115,0,2025-26
+TT000263,2,C,Wednesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-G10,0,2025-26
+TT000264,2,C,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT000265,2,C,Thursday,1,07:30,08:10,Science,TCH0056,Siya Mukherjee,Room-G08,0,2025-26
+TT000266,2,C,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-106,0,2025-26
+TT000267,2,C,Thursday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-105,0,2025-26
+TT000268,2,C,Thursday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-315,0,2025-26
+TT000269,2,C,Thursday,5,10:25,11:05,Science,TCH0029,Myra Chavan,Room-113,0,2025-26
+TT000270,2,C,Thursday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-202,0,2025-26
+TT000271,2,C,Thursday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-106,0,2025-26
+TT000272,2,C,Thursday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-G12,0,2025-26
+TT000273,2,C,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-305,0,2025-26
+TT000274,2,C,Friday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-301,1,2025-26
+TT000275,2,C,Friday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-212,0,2025-26
+TT000276,2,C,Friday,4,09:45,10:25,Science,TCH0035,Lavanya Jain,Room-208,0,2025-26
+TT000277,2,C,Friday,5,10:25,11:05,Science,TCH0075,Isha Sen,Room-303,0,2025-26
+TT000278,2,C,Friday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-308,0,2025-26
+TT000279,2,C,Friday,7,12:00,12:40,Science,TCH0050,Aryan Singh,Room-115,0,2025-26
+TT000280,2,C,Friday,8,12:40,13:20,Social Studies,TCH0006,Jiya Bhandari,Room-310,0,2025-26
+TT000281,2,C,Saturday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-207,0,2025-26
+TT000282,2,C,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-105,0,2025-26
+TT000283,2,C,Saturday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-306,0,2025-26
+TT000284,2,C,Saturday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-G04,0,2025-26
+TT000285,2,C,Saturday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT000286,2,C,Saturday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-G07,0,2025-26
+TT000287,2,C,Saturday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-214,0,2025-26
+TT000288,2,C,Saturday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-G01,0,2025-26
+TT000289,3,A,Monday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-G01,0,2025-26
+TT000290,3,A,Monday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-104,0,2025-26
+TT000291,3,A,Monday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-313,0,2025-26
+TT000292,3,A,Monday,4,09:45,10:25,Science,TCH0040,Siddharth Deshpande,Room-106,0,2025-26
+TT000293,3,A,Monday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-312,0,2025-26
+TT000294,3,A,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-205,0,2025-26
+TT000295,3,A,Monday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-202,0,2025-26
+TT000296,3,A,Monday,8,12:40,13:20,Science,TCH0017,Lavanya Sinha,Room-G06,0,2025-26
+TT000297,3,A,Tuesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-107,0,2025-26
+TT000298,3,A,Tuesday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-303,0,2025-26
+TT000299,3,A,Tuesday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-307,0,2025-26
+TT000300,3,A,Tuesday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-G09,1,2025-26
+TT000301,3,A,Tuesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G08,0,2025-26
+TT000302,3,A,Tuesday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-G07,0,2025-26
+TT000303,3,A,Tuesday,7,12:00,12:40,Hindi,TCH0066,Nikhil Shah,Room-G11,0,2025-26
+TT000304,3,A,Tuesday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-101,0,2025-26
+TT000305,3,A,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000306,3,A,Wednesday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-111,0,2025-26
+TT000307,3,A,Wednesday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-214,0,2025-26
+TT000308,3,A,Wednesday,4,09:45,10:25,Science,TCH0073,Sneha Bhosale,Room-304,0,2025-26
+TT000309,3,A,Wednesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-315,0,2025-26
+TT000310,3,A,Wednesday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-203,0,2025-26
+TT000311,3,A,Wednesday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-G09,0,2025-26
+TT000312,3,A,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-102,0,2025-26
+TT000313,3,A,Thursday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-315,0,2025-26
+TT000314,3,A,Thursday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-G05,0,2025-26
+TT000315,3,A,Thursday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-209,1,2025-26
+TT000316,3,A,Thursday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-205,0,2025-26
+TT000317,3,A,Thursday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-312,0,2025-26
+TT000318,3,A,Thursday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-201,1,2025-26
+TT000319,3,A,Thursday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-110,0,2025-26
+TT000320,3,A,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-207,0,2025-26
+TT000321,3,A,Friday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-305,0,2025-26
+TT000322,3,A,Friday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-314,0,2025-26
+TT000323,3,A,Friday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-315,0,2025-26
+TT000324,3,A,Friday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-G12,0,2025-26
+TT000325,3,A,Friday,5,10:25,11:05,Science,TCH0005,Aanya Jadhav,Room-309,0,2025-26
+TT000326,3,A,Friday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-G14,0,2025-26
+TT000327,3,A,Friday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-206,0,2025-26
+TT000328,3,A,Friday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-G15,0,2025-26
+TT000329,3,A,Saturday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-206,0,2025-26
+TT000330,3,A,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000331,3,A,Saturday,3,08:50,09:30,Science,TCH0009,Diya Shinde,Room-209,0,2025-26
+TT000332,3,A,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000333,3,A,Saturday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-302,0,2025-26
+TT000334,3,A,Saturday,6,11:05,11:45,Science,TCH0072,Aaradhya Sharma,Room-103,0,2025-26
+TT000335,3,A,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-105,0,2025-26
+TT000336,3,A,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-106,0,2025-26
+TT000337,3,B,Monday,1,07:30,08:10,Science,TCH0018,Rahul Mishra,Room-309,0,2025-26
+TT000338,3,B,Monday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-308,0,2025-26
+TT000339,3,B,Monday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-205,0,2025-26
+TT000340,3,B,Monday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-G05,0,2025-26
+TT000341,3,B,Monday,5,10:25,11:05,Science,TCH0047,Kartik Jadhav,Room-108,0,2025-26
+TT000342,3,B,Monday,6,11:05,11:45,Science,TCH0040,Siddharth Deshpande,Room-210,0,2025-26
+TT000343,3,B,Monday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-103,0,2025-26
+TT000344,3,B,Monday,8,12:40,13:20,Science,TCH0075,Isha Sen,Room-104,0,2025-26
+TT000345,3,B,Tuesday,1,07:30,08:10,Science,TCH0041,Vihaan Bhandari,Room-112,0,2025-26
+TT000346,3,B,Tuesday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-110,0,2025-26
+TT000347,3,B,Tuesday,3,08:50,09:30,Science,TCH0025,Darsh Patel,Room-313,0,2025-26
+TT000348,3,B,Tuesday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-G05,0,2025-26
+TT000349,3,B,Tuesday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-308,0,2025-26
+TT000350,3,B,Tuesday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-110,0,2025-26
+TT000351,3,B,Tuesday,7,12:00,12:40,Hindi,TCH0066,Nikhil Shah,Room-114,0,2025-26
+TT000352,3,B,Tuesday,8,12:40,13:20,Hindi,TCH0015,Parth Chatterjee,Room-104,0,2025-26
+TT000353,3,B,Wednesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-213,1,2025-26
+TT000354,3,B,Wednesday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-G06,0,2025-26
+TT000355,3,B,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT000356,3,B,Wednesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-310,0,2025-26
+TT000357,3,B,Wednesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-314,0,2025-26
+TT000358,3,B,Wednesday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-214,0,2025-26
+TT000359,3,B,Wednesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-211,0,2025-26
+TT000360,3,B,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT000361,3,B,Thursday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G12,0,2025-26
+TT000362,3,B,Thursday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-G14,0,2025-26
+TT000363,3,B,Thursday,3,08:50,09:30,Science,TCH0037,Dev Rao,Room-111,0,2025-26
+TT000364,3,B,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-105,0,2025-26
+TT000365,3,B,Thursday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-113,0,2025-26
+TT000366,3,B,Thursday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-114,0,2025-26
+TT000367,3,B,Thursday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-213,0,2025-26
+TT000368,3,B,Thursday,8,12:40,13:20,Science,TCH0009,Diya Shinde,Room-111,0,2025-26
+TT000369,3,B,Friday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-202,0,2025-26
+TT000370,3,B,Friday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-215,0,2025-26
+TT000371,3,B,Friday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-105,0,2025-26
+TT000372,3,B,Friday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-314,0,2025-26
+TT000373,3,B,Friday,5,10:25,11:05,Social Studies,TCH0079,Ishaan Chauhan,Room-G04,0,2025-26
+TT000374,3,B,Friday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-211,0,2025-26
+TT000375,3,B,Friday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-G11,0,2025-26
+TT000376,3,B,Friday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-206,0,2025-26
+TT000377,3,B,Saturday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-313,0,2025-26
+TT000378,3,B,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000379,3,B,Saturday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-104,0,2025-26
+TT000380,3,B,Saturday,4,09:45,10:25,Mathematics,TCH0026,Siya Malhotra,Room-215,0,2025-26
+TT000381,3,B,Saturday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT000382,3,B,Saturday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-114,0,2025-26
+TT000383,3,B,Saturday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-G11,0,2025-26
+TT000384,3,B,Saturday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-G02,0,2025-26
+TT000385,3,C,Monday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-304,0,2025-26
+TT000386,3,C,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-303,0,2025-26
+TT000387,3,C,Monday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT000388,3,C,Monday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-304,0,2025-26
+TT000389,3,C,Monday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-107,0,2025-26
+TT000390,3,C,Monday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-113,0,2025-26
+TT000391,3,C,Monday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-304,0,2025-26
+TT000392,3,C,Monday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-213,0,2025-26
+TT000393,3,C,Tuesday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-303,0,2025-26
+TT000394,3,C,Tuesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-106,0,2025-26
+TT000395,3,C,Tuesday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-314,0,2025-26
+TT000396,3,C,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G14,0,2025-26
+TT000397,3,C,Tuesday,5,10:25,11:05,Social Studies,TCH0056,Siya Mukherjee,Room-308,0,2025-26
+TT000398,3,C,Tuesday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-309,0,2025-26
+TT000399,3,C,Tuesday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-208,0,2025-26
+TT000400,3,C,Tuesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-305,0,2025-26
+TT000401,3,C,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT000402,3,C,Wednesday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-314,0,2025-26
+TT000403,3,C,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-G02,0,2025-26
+TT000404,3,C,Wednesday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-304,0,2025-26
+TT000405,3,C,Wednesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-103,0,2025-26
+TT000406,3,C,Wednesday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-312,0,2025-26
+TT000407,3,C,Wednesday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-G13,0,2025-26
+TT000408,3,C,Wednesday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-207,1,2025-26
+TT000409,3,C,Thursday,1,07:30,08:10,Science,TCH0020,Advik Thakur,Room-212,0,2025-26
+TT000410,3,C,Thursday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-G14,0,2025-26
+TT000411,3,C,Thursday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-313,1,2025-26
+TT000412,3,C,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-308,0,2025-26
+TT000413,3,C,Thursday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-214,0,2025-26
+TT000414,3,C,Thursday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-G08,0,2025-26
+TT000415,3,C,Thursday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-201,0,2025-26
+TT000416,3,C,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000417,3,C,Friday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-301,0,2025-26
+TT000418,3,C,Friday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-311,0,2025-26
+TT000419,3,C,Friday,3,08:50,09:30,Science,TCH0036,Kartik Bhat,Room-G07,0,2025-26
+TT000420,3,C,Friday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-107,0,2025-26
+TT000421,3,C,Friday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT000422,3,C,Friday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-111,0,2025-26
+TT000423,3,C,Friday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-G07,0,2025-26
+TT000424,3,C,Friday,8,12:40,13:20,Science,TCH0024,Kabir Das,Room-203,0,2025-26
+TT000425,3,C,Saturday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-215,0,2025-26
+TT000426,3,C,Saturday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-201,0,2025-26
+TT000427,3,C,Saturday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-306,0,2025-26
+TT000428,3,C,Saturday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-G10,0,2025-26
+TT000429,3,C,Saturday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-205,0,2025-26
+TT000430,3,C,Saturday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-G09,0,2025-26
+TT000431,3,C,Saturday,7,12:00,12:40,Science,TCH0013,Avni Ghosh,Room-212,0,2025-26
+TT000432,3,C,Saturday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-103,0,2025-26
+TT000433,4,A,Monday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-212,1,2025-26
+TT000434,4,A,Monday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-310,0,2025-26
+TT000435,4,A,Monday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-204,0,2025-26
+TT000436,4,A,Monday,4,09:45,10:25,Science,TCH0050,Aryan Singh,Room-314,0,2025-26
+TT000437,4,A,Monday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000438,4,A,Monday,6,11:05,11:45,Science,TCH0027,Rishi Sinha,Room-313,0,2025-26
+TT000439,4,A,Monday,7,12:00,12:40,Science,TCH0013,Avni Ghosh,Room-313,0,2025-26
+TT000440,4,A,Monday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-109,0,2025-26
+TT000441,4,A,Tuesday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-214,0,2025-26
+TT000442,4,A,Tuesday,2,08:10,08:50,Science,TCH0075,Isha Sen,Room-207,0,2025-26
+TT000443,4,A,Tuesday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-210,0,2025-26
+TT000444,4,A,Tuesday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-G13,0,2025-26
+TT000445,4,A,Tuesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-310,0,2025-26
+TT000446,4,A,Tuesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-G06,0,2025-26
+TT000447,4,A,Tuesday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-310,0,2025-26
+TT000448,4,A,Tuesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-G09,0,2025-26
+TT000449,4,A,Wednesday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-G07,0,2025-26
+TT000450,4,A,Wednesday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-G11,0,2025-26
+TT000451,4,A,Wednesday,3,08:50,09:30,Science,TCH0016,Sai Kapoor,Room-304,0,2025-26
+TT000452,4,A,Wednesday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-G08,0,2025-26
+TT000453,4,A,Wednesday,5,10:25,11:05,Science,TCH0003,Aarav Gupta,Room-203,0,2025-26
+TT000454,4,A,Wednesday,6,11:05,11:45,Science,TCH0069,Isha Bhat,Room-209,0,2025-26
+TT000455,4,A,Wednesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-G03,0,2025-26
+TT000456,4,A,Wednesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-115,0,2025-26
+TT000457,4,A,Thursday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-306,0,2025-26
+TT000458,4,A,Thursday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-102,0,2025-26
+TT000459,4,A,Thursday,3,08:50,09:30,Science,TCH0044,Siddharth Chatterjee,Room-307,0,2025-26
+TT000460,4,A,Thursday,4,09:45,10:25,Science,TCH0071,Ananya Iyer,Room-212,0,2025-26
+TT000461,4,A,Thursday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT000462,4,A,Thursday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-105,0,2025-26
+TT000463,4,A,Thursday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-213,0,2025-26
+TT000464,4,A,Thursday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-G03,0,2025-26
+TT000465,4,A,Friday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-104,0,2025-26
+TT000466,4,A,Friday,2,08:10,08:50,Science,TCH0024,Kabir Das,Room-G02,0,2025-26
+TT000467,4,A,Friday,3,08:50,09:30,Science,TCH0028,Gauri Deshpande,Room-313,0,2025-26
+TT000468,4,A,Friday,4,09:45,10:25,Science,TCH0037,Dev Rao,Room-304,0,2025-26
+TT000469,4,A,Friday,5,10:25,11:05,Science,TCH0060,Trisha Pawar,Room-207,0,2025-26
+TT000470,4,A,Friday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-G01,0,2025-26
+TT000471,4,A,Friday,7,12:00,12:40,Science,TCH0070,Khushi Sinha,Room-106,0,2025-26
+TT000472,4,A,Friday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-107,1,2025-26
+TT000473,4,A,Saturday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-G01,0,2025-26
+TT000474,4,A,Saturday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-215,0,2025-26
+TT000475,4,A,Saturday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-G02,0,2025-26
+TT000476,4,A,Saturday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-G04,0,2025-26
+TT000477,4,A,Saturday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT000478,4,A,Saturday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-112,1,2025-26
+TT000479,4,A,Saturday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-G03,0,2025-26
+TT000480,4,A,Saturday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-G02,0,2025-26
+TT000481,4,B,Monday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-302,0,2025-26
+TT000482,4,B,Monday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-303,0,2025-26
+TT000483,4,B,Monday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-112,0,2025-26
+TT000484,4,B,Monday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-208,0,2025-26
+TT000485,4,B,Monday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-202,0,2025-26
+TT000486,4,B,Monday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-306,1,2025-26
+TT000487,4,B,Monday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-G04,0,2025-26
+TT000488,4,B,Monday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-202,0,2025-26
+TT000489,4,B,Tuesday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-213,0,2025-26
+TT000490,4,B,Tuesday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-105,0,2025-26
+TT000491,4,B,Tuesday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-112,0,2025-26
+TT000492,4,B,Tuesday,4,09:45,10:25,Science,TCH0016,Sai Kapoor,Room-G09,0,2025-26
+TT000493,4,B,Tuesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-G01,1,2025-26
+TT000494,4,B,Tuesday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-115,0,2025-26
+TT000495,4,B,Tuesday,7,12:00,12:40,Science,TCH0053,Siya Sharma,Room-G02,0,2025-26
+TT000496,4,B,Tuesday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-G01,0,2025-26
+TT000497,4,B,Wednesday,1,07:30,08:10,Hindi,TCH0015,Parth Chatterjee,Room-G07,0,2025-26
+TT000498,4,B,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-208,0,2025-26
+TT000499,4,B,Wednesday,3,08:50,09:30,Social Studies,TCH0006,Jiya Bhandari,Room-104,0,2025-26
+TT000500,4,B,Wednesday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-314,0,2025-26
+TT000501,4,B,Wednesday,5,10:25,11:05,Science,TCH0064,Zara Reddy,Room-111,0,2025-26
+TT000502,4,B,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-207,0,2025-26
+TT000503,4,B,Wednesday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-G03,0,2025-26
+TT000504,4,B,Wednesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-G02,0,2025-26
+TT000505,4,B,Thursday,1,07:30,08:10,Science,TCH0018,Rahul Mishra,Room-313,0,2025-26
+TT000506,4,B,Thursday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-207,0,2025-26
+TT000507,4,B,Thursday,3,08:50,09:30,Hindi,TCH0063,Dhruv Mehta,Room-310,0,2025-26
+TT000508,4,B,Thursday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-305,0,2025-26
+TT000509,4,B,Thursday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-308,0,2025-26
+TT000510,4,B,Thursday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-106,0,2025-26
+TT000511,4,B,Thursday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-G15,0,2025-26
+TT000512,4,B,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT000513,4,B,Friday,1,07:30,08:10,Science,TCH0031,Pari Deshmukh,Room-G07,0,2025-26
+TT000514,4,B,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-107,0,2025-26
+TT000515,4,B,Friday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G14,0,2025-26
+TT000516,4,B,Friday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-302,0,2025-26
+TT000517,4,B,Friday,5,10:25,11:05,Science,TCH0005,Aanya Jadhav,Room-G02,0,2025-26
+TT000518,4,B,Friday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-G04,0,2025-26
+TT000519,4,B,Friday,7,12:00,12:40,Science,TCH0022,Siddharth Agarwal,Room-303,0,2025-26
+TT000520,4,B,Friday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-112,0,2025-26
+TT000521,4,B,Saturday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G14,0,2025-26
+TT000522,4,B,Saturday,2,08:10,08:50,Science,TCH0077,Siya Ghosh,Room-303,0,2025-26
+TT000523,4,B,Saturday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-110,0,2025-26
+TT000524,4,B,Saturday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-313,0,2025-26
+TT000525,4,B,Saturday,5,10:25,11:05,Science,TCH0079,Ishaan Chauhan,Room-104,0,2025-26
+TT000526,4,B,Saturday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-312,0,2025-26
+TT000527,4,B,Saturday,7,12:00,12:40,Computer Science,TCH0024,Kabir Das,Room-201,1,2025-26
+TT000528,4,B,Saturday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-G04,0,2025-26
+TT000529,4,C,Monday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-G13,0,2025-26
+TT000530,4,C,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-309,0,2025-26
+TT000531,4,C,Monday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-103,0,2025-26
+TT000532,4,C,Monday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-311,0,2025-26
+TT000533,4,C,Monday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-305,0,2025-26
+TT000534,4,C,Monday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-315,0,2025-26
+TT000535,4,C,Monday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000536,4,C,Monday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-211,0,2025-26
+TT000537,4,C,Tuesday,1,07:30,08:10,Science,TCH0068,Nisha Mehta,Room-209,0,2025-26
+TT000538,4,C,Tuesday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-312,0,2025-26
+TT000539,4,C,Tuesday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-106,0,2025-26
+TT000540,4,C,Tuesday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-310,0,2025-26
+TT000541,4,C,Tuesday,5,10:25,11:05,Science,TCH0062,Sahil Gaikwad,Room-315,0,2025-26
+TT000542,4,C,Tuesday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-G09,0,2025-26
+TT000543,4,C,Tuesday,7,12:00,12:40,Science,TCH0033,Laksh Kapoor,Room-208,0,2025-26
+TT000544,4,C,Tuesday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-306,0,2025-26
+TT000545,4,C,Wednesday,1,07:30,08:10,Science,TCH0067,Saanvi Ghosh,Room-204,0,2025-26
+TT000546,4,C,Wednesday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-314,0,2025-26
+TT000547,4,C,Wednesday,3,08:50,09:30,Hindi,TCH0063,Dhruv Mehta,Room-110,0,2025-26
+TT000548,4,C,Wednesday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-304,0,2025-26
+TT000549,4,C,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000550,4,C,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-208,0,2025-26
+TT000551,4,C,Wednesday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-311,0,2025-26
+TT000552,4,C,Wednesday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-108,0,2025-26
+TT000553,4,C,Thursday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-114,0,2025-26
+TT000554,4,C,Thursday,2,08:10,08:50,Science,TCH0051,Tanvi Shah,Room-111,0,2025-26
+TT000555,4,C,Thursday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-315,0,2025-26
+TT000556,4,C,Thursday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-307,0,2025-26
+TT000557,4,C,Thursday,5,10:25,11:05,Science,TCH0060,Trisha Pawar,Room-204,0,2025-26
+TT000558,4,C,Thursday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-211,0,2025-26
+TT000559,4,C,Thursday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-214,0,2025-26
+TT000560,4,C,Thursday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-201,0,2025-26
+TT000561,4,C,Friday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G03,0,2025-26
+TT000562,4,C,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-101,0,2025-26
+TT000563,4,C,Friday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-311,0,2025-26
+TT000564,4,C,Friday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-101,0,2025-26
+TT000565,4,C,Friday,5,10:25,11:05,Social Studies,TCH0079,Ishaan Chauhan,Room-309,0,2025-26
+TT000566,4,C,Friday,6,11:05,11:45,Science,TCH0065,Anika Saxena,Room-213,0,2025-26
+TT000567,4,C,Friday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G02,0,2025-26
+TT000568,4,C,Friday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-G01,0,2025-26
+TT000569,4,C,Saturday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-206,0,2025-26
+TT000570,4,C,Saturday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-G10,0,2025-26
+TT000571,4,C,Saturday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-215,0,2025-26
+TT000572,4,C,Saturday,4,09:45,10:25,Science,TCH0047,Kartik Jadhav,Room-309,0,2025-26
+TT000573,4,C,Saturday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-309,0,2025-26
+TT000574,4,C,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-105,0,2025-26
+TT000575,4,C,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT000576,4,C,Saturday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-111,0,2025-26
+TT000577,5,A,Monday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-103,0,2025-26
+TT000578,5,A,Monday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-110,0,2025-26
+TT000579,5,A,Monday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-308,0,2025-26
+TT000580,5,A,Monday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-107,0,2025-26
+TT000581,5,A,Monday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-210,0,2025-26
+TT000582,5,A,Monday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-310,0,2025-26
+TT000583,5,A,Monday,7,12:00,12:40,Science,TCH0046,Ahana Mahajan,Room-208,0,2025-26
+TT000584,5,A,Monday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-110,1,2025-26
+TT000585,5,A,Tuesday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-G11,0,2025-26
+TT000586,5,A,Tuesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-105,0,2025-26
+TT000587,5,A,Tuesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000588,5,A,Tuesday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-305,0,2025-26
+TT000589,5,A,Tuesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-303,1,2025-26
+TT000590,5,A,Tuesday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-313,0,2025-26
+TT000591,5,A,Tuesday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-109,0,2025-26
+TT000592,5,A,Tuesday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-G08,1,2025-26
+TT000593,5,A,Wednesday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-G08,0,2025-26
+TT000594,5,A,Wednesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-G15,0,2025-26
+TT000595,5,A,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-205,0,2025-26
+TT000596,5,A,Wednesday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-112,0,2025-26
+TT000597,5,A,Wednesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-105,0,2025-26
+TT000598,5,A,Wednesday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-106,0,2025-26
+TT000599,5,A,Wednesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-209,0,2025-26
+TT000600,5,A,Wednesday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-G12,0,2025-26
+TT000601,5,A,Thursday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-213,0,2025-26
+TT000602,5,A,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000603,5,A,Thursday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-203,0,2025-26
+TT000604,5,A,Thursday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000605,5,A,Thursday,5,10:25,11:05,Science,TCH0001,Laksh Chatterjee,Room-G10,0,2025-26
+TT000606,5,A,Thursday,6,11:05,11:45,Science,TCH0012,Aditi Shinde,Room-312,0,2025-26
+TT000607,5,A,Thursday,7,12:00,12:40,Science,TCH0072,Aaradhya Sharma,Room-113,0,2025-26
+TT000608,5,A,Thursday,8,12:40,13:20,Science,TCH0002,Radhika Mehta,Room-114,0,2025-26
+TT000609,5,A,Friday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G09,0,2025-26
+TT000610,5,A,Friday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-210,0,2025-26
+TT000611,5,A,Friday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-213,0,2025-26
+TT000612,5,A,Friday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-G11,0,2025-26
+TT000613,5,A,Friday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT000614,5,A,Friday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-101,0,2025-26
+TT000615,5,A,Friday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-G03,0,2025-26
+TT000616,5,A,Friday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-G03,0,2025-26
+TT000617,5,A,Saturday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-312,0,2025-26
+TT000618,5,A,Saturday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-108,0,2025-26
+TT000619,5,A,Saturday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G04,0,2025-26
+TT000620,5,A,Saturday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-215,0,2025-26
+TT000621,5,A,Saturday,5,10:25,11:05,Science,TCH0064,Zara Reddy,Room-110,0,2025-26
+TT000622,5,A,Saturday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-212,0,2025-26
+TT000623,5,A,Saturday,7,12:00,12:40,Science,TCH0026,Siya Malhotra,Room-G09,0,2025-26
+TT000624,5,A,Saturday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-310,0,2025-26
+TT000625,5,B,Monday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G04,0,2025-26
+TT000626,5,B,Monday,2,08:10,08:50,Science,TCH0049,Anvi Dubey,Room-204,0,2025-26
+TT000627,5,B,Monday,3,08:50,09:30,Hindi,TCH0063,Dhruv Mehta,Room-312,0,2025-26
+TT000628,5,B,Monday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-204,0,2025-26
+TT000629,5,B,Monday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-107,0,2025-26
+TT000630,5,B,Monday,6,11:05,11:45,Science,TCH0077,Siya Ghosh,Room-306,0,2025-26
+TT000631,5,B,Monday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-G13,0,2025-26
+TT000632,5,B,Monday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-311,0,2025-26
+TT000633,5,B,Tuesday,1,07:30,08:10,Science,TCH0020,Advik Thakur,Room-315,0,2025-26
+TT000634,5,B,Tuesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT000635,5,B,Tuesday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-114,0,2025-26
+TT000636,5,B,Tuesday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-108,1,2025-26
+TT000637,5,B,Tuesday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-111,0,2025-26
+TT000638,5,B,Tuesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-212,0,2025-26
+TT000639,5,B,Tuesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-208,0,2025-26
+TT000640,5,B,Tuesday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-G08,0,2025-26
+TT000641,5,B,Wednesday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-315,0,2025-26
+TT000642,5,B,Wednesday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-203,1,2025-26
+TT000643,5,B,Wednesday,3,08:50,09:30,Social Studies,TCH0006,Jiya Bhandari,Room-209,0,2025-26
+TT000644,5,B,Wednesday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-301,0,2025-26
+TT000645,5,B,Wednesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-G02,0,2025-26
+TT000646,5,B,Wednesday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-G15,0,2025-26
+TT000647,5,B,Wednesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-210,0,2025-26
+TT000648,5,B,Wednesday,8,12:40,13:20,Hindi,TCH0063,Dhruv Mehta,Room-207,0,2025-26
+TT000649,5,B,Thursday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-306,0,2025-26
+TT000650,5,B,Thursday,2,08:10,08:50,Science,TCH0056,Siya Mukherjee,Room-209,0,2025-26
+TT000651,5,B,Thursday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-211,1,2025-26
+TT000652,5,B,Thursday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-108,0,2025-26
+TT000653,5,B,Thursday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-207,0,2025-26
+TT000654,5,B,Thursday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-211,0,2025-26
+TT000655,5,B,Thursday,7,12:00,12:40,Science,TCH0076,Rishi Saxena,Room-212,0,2025-26
+TT000656,5,B,Thursday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-315,0,2025-26
+TT000657,5,B,Friday,1,07:30,08:10,Science,TCH0065,Anika Saxena,Room-104,0,2025-26
+TT000658,5,B,Friday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-G14,0,2025-26
+TT000659,5,B,Friday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-G13,0,2025-26
+TT000660,5,B,Friday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-G15,1,2025-26
+TT000661,5,B,Friday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-G12,0,2025-26
+TT000662,5,B,Friday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-207,0,2025-26
+TT000663,5,B,Friday,7,12:00,12:40,Science,TCH0023,Nikhil Ghosh,Room-111,0,2025-26
+TT000664,5,B,Friday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-309,0,2025-26
+TT000665,5,B,Saturday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-309,0,2025-26
+TT000666,5,B,Saturday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-302,1,2025-26
+TT000667,5,B,Saturday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-304,0,2025-26
+TT000668,5,B,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-304,0,2025-26
+TT000669,5,B,Saturday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-212,0,2025-26
+TT000670,5,B,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-101,0,2025-26
+TT000671,5,B,Saturday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-205,0,2025-26
+TT000672,5,B,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-314,0,2025-26
+TT000673,5,C,Monday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-105,0,2025-26
+TT000674,5,C,Monday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-311,0,2025-26
+TT000675,5,C,Monday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-309,0,2025-26
+TT000676,5,C,Monday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G11,0,2025-26
+TT000677,5,C,Monday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-212,0,2025-26
+TT000678,5,C,Monday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-110,0,2025-26
+TT000679,5,C,Monday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-G07,0,2025-26
+TT000680,5,C,Monday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-308,0,2025-26
+TT000681,5,C,Tuesday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-301,0,2025-26
+TT000682,5,C,Tuesday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-308,0,2025-26
+TT000683,5,C,Tuesday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-313,0,2025-26
+TT000684,5,C,Tuesday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-204,0,2025-26
+TT000685,5,C,Tuesday,5,10:25,11:05,Science,TCH0080,Angel Mahajan,Room-311,0,2025-26
+TT000686,5,C,Tuesday,6,11:05,11:45,Science,TCH0060,Trisha Pawar,Room-201,0,2025-26
+TT000687,5,C,Tuesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-G01,0,2025-26
+TT000688,5,C,Tuesday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-110,0,2025-26
+TT000689,5,C,Wednesday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-304,0,2025-26
+TT000690,5,C,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-312,0,2025-26
+TT000691,5,C,Wednesday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-212,0,2025-26
+TT000692,5,C,Wednesday,4,09:45,10:25,Social Studies,TCH0036,Kartik Bhat,Room-208,0,2025-26
+TT000693,5,C,Wednesday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-112,0,2025-26
+TT000694,5,C,Wednesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-212,0,2025-26
+TT000695,5,C,Wednesday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-G09,0,2025-26
+TT000696,5,C,Wednesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-212,0,2025-26
+TT000697,5,C,Thursday,1,07:30,08:10,Science,TCH0074,Tara Rao,Room-311,0,2025-26
+TT000698,5,C,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000699,5,C,Thursday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-101,0,2025-26
+TT000700,5,C,Thursday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-102,0,2025-26
+TT000701,5,C,Thursday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-305,0,2025-26
+TT000702,5,C,Thursday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-102,1,2025-26
+TT000703,5,C,Thursday,7,12:00,12:40,Science,TCH0013,Avni Ghosh,Room-113,0,2025-26
+TT000704,5,C,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-G13,0,2025-26
+TT000705,5,C,Friday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G13,0,2025-26
+TT000706,5,C,Friday,2,08:10,08:50,Science,TCH0028,Gauri Deshpande,Room-G04,0,2025-26
+TT000707,5,C,Friday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-208,0,2025-26
+TT000708,5,C,Friday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-104,0,2025-26
+TT000709,5,C,Friday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-207,0,2025-26
+TT000710,5,C,Friday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-206,0,2025-26
+TT000711,5,C,Friday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-212,0,2025-26
+TT000712,5,C,Friday,8,12:40,13:20,Hindi,TCH0063,Dhruv Mehta,Room-301,0,2025-26
+TT000713,5,C,Saturday,1,07:30,08:10,Science,TCH0031,Pari Deshmukh,Room-105,0,2025-26
+TT000714,5,C,Saturday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-215,0,2025-26
+TT000715,5,C,Saturday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-314,0,2025-26
+TT000716,5,C,Saturday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-105,0,2025-26
+TT000717,5,C,Saturday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-307,0,2025-26
+TT000718,5,C,Saturday,6,11:05,11:45,Science,TCH0053,Siya Sharma,Room-215,0,2025-26
+TT000719,5,C,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000720,5,C,Saturday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-113,0,2025-26
+TT000721,6,A,Monday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-204,0,2025-26
+TT000722,6,A,Monday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-315,0,2025-26
+TT000723,6,A,Monday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-112,0,2025-26
+TT000724,6,A,Monday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-108,0,2025-26
+TT000725,6,A,Monday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-301,0,2025-26
+TT000726,6,A,Monday,6,11:05,11:45,Social Studies,TCH0079,Ishaan Chauhan,Room-111,0,2025-26
+TT000727,6,A,Monday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-307,1,2025-26
+TT000728,6,A,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-306,0,2025-26
+TT000729,6,A,Tuesday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-110,0,2025-26
+TT000730,6,A,Tuesday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-301,1,2025-26
+TT000731,6,A,Tuesday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-305,0,2025-26
+TT000732,6,A,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT000733,6,A,Tuesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-203,1,2025-26
+TT000734,6,A,Tuesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-106,0,2025-26
+TT000735,6,A,Tuesday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-212,0,2025-26
+TT000736,6,A,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-101,0,2025-26
+TT000737,6,A,Wednesday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-102,0,2025-26
+TT000738,6,A,Wednesday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-G07,0,2025-26
+TT000739,6,A,Wednesday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-309,0,2025-26
+TT000740,6,A,Wednesday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-105,0,2025-26
+TT000741,6,A,Wednesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-307,0,2025-26
+TT000742,6,A,Wednesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-307,0,2025-26
+TT000743,6,A,Wednesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT000744,6,A,Wednesday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-G15,0,2025-26
+TT000745,6,A,Thursday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-101,0,2025-26
+TT000746,6,A,Thursday,2,08:10,08:50,Science,TCH0035,Lavanya Jain,Room-214,0,2025-26
+TT000747,6,A,Thursday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-G12,0,2025-26
+TT000748,6,A,Thursday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-207,1,2025-26
+TT000749,6,A,Thursday,5,10:25,11:05,Social Studies,TCH0079,Ishaan Chauhan,Room-G01,0,2025-26
+TT000750,6,A,Thursday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-205,0,2025-26
+TT000751,6,A,Thursday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-307,0,2025-26
+TT000752,6,A,Thursday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-302,0,2025-26
+TT000753,6,A,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-304,0,2025-26
+TT000754,6,A,Friday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-215,0,2025-26
+TT000755,6,A,Friday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-304,0,2025-26
+TT000756,6,A,Friday,4,09:45,10:25,Science,TCH0047,Kartik Jadhav,Room-G07,0,2025-26
+TT000757,6,A,Friday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-307,0,2025-26
+TT000758,6,A,Friday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-314,0,2025-26
+TT000759,6,A,Friday,7,12:00,12:40,Science,TCH0078,Palak Jain,Room-G05,0,2025-26
+TT000760,6,A,Friday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-108,0,2025-26
+TT000761,6,A,Saturday,1,07:30,08:10,Science,TCH0015,Parth Chatterjee,Room-212,0,2025-26
+TT000762,6,A,Saturday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-304,0,2025-26
+TT000763,6,A,Saturday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-301,0,2025-26
+TT000764,6,A,Saturday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-303,0,2025-26
+TT000765,6,A,Saturday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-G10,0,2025-26
+TT000766,6,A,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT000767,6,A,Saturday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-101,0,2025-26
+TT000768,6,A,Saturday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-110,0,2025-26
+TT000769,6,B,Monday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-204,1,2025-26
+TT000770,6,B,Monday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-301,0,2025-26
+TT000771,6,B,Monday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-103,0,2025-26
+TT000772,6,B,Monday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-G06,0,2025-26
+TT000773,6,B,Monday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000774,6,B,Monday,6,11:05,11:45,Mathematics,TCH0028,Gauri Deshpande,Room-G08,0,2025-26
+TT000775,6,B,Monday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-208,0,2025-26
+TT000776,6,B,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-112,0,2025-26
+TT000777,6,B,Tuesday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-212,0,2025-26
+TT000778,6,B,Tuesday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-210,0,2025-26
+TT000779,6,B,Tuesday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-209,0,2025-26
+TT000780,6,B,Tuesday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-207,0,2025-26
+TT000781,6,B,Tuesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-102,0,2025-26
+TT000782,6,B,Tuesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-203,0,2025-26
+TT000783,6,B,Tuesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-307,0,2025-26
+TT000784,6,B,Tuesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-203,1,2025-26
+TT000785,6,B,Wednesday,1,07:30,08:10,Science,TCH0058,Kian Mehta,Room-315,0,2025-26
+TT000786,6,B,Wednesday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-314,0,2025-26
+TT000787,6,B,Wednesday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-105,0,2025-26
+TT000788,6,B,Wednesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G10,0,2025-26
+TT000789,6,B,Wednesday,5,10:25,11:05,Science,TCH0016,Sai Kapoor,Room-215,0,2025-26
+TT000790,6,B,Wednesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-G14,0,2025-26
+TT000791,6,B,Wednesday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-102,0,2025-26
+TT000792,6,B,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT000793,6,B,Thursday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-G01,0,2025-26
+TT000794,6,B,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-309,0,2025-26
+TT000795,6,B,Thursday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G09,0,2025-26
+TT000796,6,B,Thursday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-214,0,2025-26
+TT000797,6,B,Thursday,5,10:25,11:05,Science,TCH0025,Darsh Patel,Room-201,0,2025-26
+TT000798,6,B,Thursday,6,11:05,11:45,Science,TCH0026,Siya Malhotra,Room-G13,0,2025-26
+TT000799,6,B,Thursday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-104,0,2025-26
+TT000800,6,B,Thursday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-307,0,2025-26
+TT000801,6,B,Friday,1,07:30,08:10,Science,TCH0037,Dev Rao,Room-103,0,2025-26
+TT000802,6,B,Friday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-214,0,2025-26
+TT000803,6,B,Friday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-303,0,2025-26
+TT000804,6,B,Friday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G09,0,2025-26
+TT000805,6,B,Friday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-G07,0,2025-26
+TT000806,6,B,Friday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-307,0,2025-26
+TT000807,6,B,Friday,7,12:00,12:40,Science,TCH0036,Kartik Bhat,Room-111,0,2025-26
+TT000808,6,B,Friday,8,12:40,13:20,Science,TCH0008,Dhruv Saxena,Room-G10,0,2025-26
+TT000809,6,B,Saturday,1,07:30,08:10,Hindi,TCH0015,Parth Chatterjee,Room-205,0,2025-26
+TT000810,6,B,Saturday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-G12,0,2025-26
+TT000811,6,B,Saturday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-213,0,2025-26
+TT000812,6,B,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-212,0,2025-26
+TT000813,6,B,Saturday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-G05,0,2025-26
+TT000814,6,B,Saturday,6,11:05,11:45,Science,TCH0059,Sara Pawar,Room-312,0,2025-26
+TT000815,6,B,Saturday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-308,0,2025-26
+TT000816,6,B,Saturday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-G07,0,2025-26
+TT000817,6,C,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G04,0,2025-26
+TT000818,6,C,Monday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-209,0,2025-26
+TT000819,6,C,Monday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-102,0,2025-26
+TT000820,6,C,Monday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-308,0,2025-26
+TT000821,6,C,Monday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-215,1,2025-26
+TT000822,6,C,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT000823,6,C,Monday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-309,0,2025-26
+TT000824,6,C,Monday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-105,0,2025-26
+TT000825,6,C,Tuesday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-114,0,2025-26
+TT000826,6,C,Tuesday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-111,0,2025-26
+TT000827,6,C,Tuesday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-106,0,2025-26
+TT000828,6,C,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G08,0,2025-26
+TT000829,6,C,Tuesday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-201,0,2025-26
+TT000830,6,C,Tuesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-109,0,2025-26
+TT000831,6,C,Tuesday,7,12:00,12:40,Science,TCH0031,Pari Deshmukh,Room-212,0,2025-26
+TT000832,6,C,Tuesday,8,12:40,13:20,Science,TCH0063,Dhruv Mehta,Room-202,0,2025-26
+TT000833,6,C,Wednesday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-G02,0,2025-26
+TT000834,6,C,Wednesday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-202,0,2025-26
+TT000835,6,C,Wednesday,3,08:50,09:30,Science,TCH0001,Laksh Chatterjee,Room-G07,0,2025-26
+TT000836,6,C,Wednesday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-305,0,2025-26
+TT000837,6,C,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G15,0,2025-26
+TT000838,6,C,Wednesday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-G15,0,2025-26
+TT000839,6,C,Wednesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-102,0,2025-26
+TT000840,6,C,Wednesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-211,0,2025-26
+TT000841,6,C,Thursday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-G04,0,2025-26
+TT000842,6,C,Thursday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-202,0,2025-26
+TT000843,6,C,Thursday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-313,0,2025-26
+TT000844,6,C,Thursday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT000845,6,C,Thursday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-G13,0,2025-26
+TT000846,6,C,Thursday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-302,0,2025-26
+TT000847,6,C,Thursday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT000848,6,C,Thursday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-305,0,2025-26
+TT000849,6,C,Friday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-112,0,2025-26
+TT000850,6,C,Friday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-105,0,2025-26
+TT000851,6,C,Friday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-202,1,2025-26
+TT000852,6,C,Friday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-301,0,2025-26
+TT000853,6,C,Friday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-209,0,2025-26
+TT000854,6,C,Friday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-207,0,2025-26
+TT000855,6,C,Friday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-114,1,2025-26
+TT000856,6,C,Friday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-209,0,2025-26
+TT000857,6,C,Saturday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT000858,6,C,Saturday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-210,0,2025-26
+TT000859,6,C,Saturday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-112,0,2025-26
+TT000860,6,C,Saturday,4,09:45,10:25,Social Studies,TCH0036,Kartik Bhat,Room-108,0,2025-26
+TT000861,6,C,Saturday,5,10:25,11:05,Mathematics,TCH0043,Divya Sharma,Room-G09,0,2025-26
+TT000862,6,C,Saturday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-113,0,2025-26
+TT000863,6,C,Saturday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-G09,0,2025-26
+TT000864,6,C,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT000865,6,D,Monday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-209,0,2025-26
+TT000866,6,D,Monday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-311,0,2025-26
+TT000867,6,D,Monday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT000868,6,D,Monday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-212,0,2025-26
+TT000869,6,D,Monday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-210,0,2025-26
+TT000870,6,D,Monday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-308,0,2025-26
+TT000871,6,D,Monday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-113,0,2025-26
+TT000872,6,D,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-312,0,2025-26
+TT000873,6,D,Tuesday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-315,0,2025-26
+TT000874,6,D,Tuesday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-315,0,2025-26
+TT000875,6,D,Tuesday,3,08:50,09:30,Science,TCH0079,Ishaan Chauhan,Room-G11,0,2025-26
+TT000876,6,D,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT000877,6,D,Tuesday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-111,0,2025-26
+TT000878,6,D,Tuesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-308,1,2025-26
+TT000879,6,D,Tuesday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-G04,0,2025-26
+TT000880,6,D,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT000881,6,D,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G09,0,2025-26
+TT000882,6,D,Wednesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-308,0,2025-26
+TT000883,6,D,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-113,0,2025-26
+TT000884,6,D,Wednesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT000885,6,D,Wednesday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-204,0,2025-26
+TT000886,6,D,Wednesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-314,1,2025-26
+TT000887,6,D,Wednesday,7,12:00,12:40,Science,TCH0023,Nikhil Ghosh,Room-203,0,2025-26
+TT000888,6,D,Wednesday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-214,0,2025-26
+TT000889,6,D,Thursday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT000890,6,D,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-104,0,2025-26
+TT000891,6,D,Thursday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-G13,0,2025-26
+TT000892,6,D,Thursday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-305,0,2025-26
+TT000893,6,D,Thursday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-314,0,2025-26
+TT000894,6,D,Thursday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-207,0,2025-26
+TT000895,6,D,Thursday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-G13,0,2025-26
+TT000896,6,D,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-G09,0,2025-26
+TT000897,6,D,Friday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-205,0,2025-26
+TT000898,6,D,Friday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-301,0,2025-26
+TT000899,6,D,Friday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-105,0,2025-26
+TT000900,6,D,Friday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-211,0,2025-26
+TT000901,6,D,Friday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-109,1,2025-26
+TT000902,6,D,Friday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-110,0,2025-26
+TT000903,6,D,Friday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-108,0,2025-26
+TT000904,6,D,Friday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-311,1,2025-26
+TT000905,6,D,Saturday,1,07:30,08:10,Science,TCH0060,Trisha Pawar,Room-109,0,2025-26
+TT000906,6,D,Saturday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-G11,0,2025-26
+TT000907,6,D,Saturday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-215,0,2025-26
+TT000908,6,D,Saturday,4,09:45,10:25,Social Studies,TCH0036,Kartik Bhat,Room-G04,0,2025-26
+TT000909,6,D,Saturday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-G12,0,2025-26
+TT000910,6,D,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-315,0,2025-26
+TT000911,6,D,Saturday,7,12:00,12:40,Hindi,TCH0066,Nikhil Shah,Room-115,0,2025-26
+TT000912,6,D,Saturday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-206,0,2025-26
+TT000913,7,A,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-308,0,2025-26
+TT000914,7,A,Monday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-108,0,2025-26
+TT000915,7,A,Monday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-108,0,2025-26
+TT000916,7,A,Monday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-202,0,2025-26
+TT000917,7,A,Monday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-214,0,2025-26
+TT000918,7,A,Monday,6,11:05,11:45,Science,TCH0043,Divya Sharma,Room-307,0,2025-26
+TT000919,7,A,Monday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-307,0,2025-26
+TT000920,7,A,Monday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-101,0,2025-26
+TT000921,7,A,Tuesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-309,0,2025-26
+TT000922,7,A,Tuesday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-312,0,2025-26
+TT000923,7,A,Tuesday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G06,0,2025-26
+TT000924,7,A,Tuesday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-114,0,2025-26
+TT000925,7,A,Tuesday,5,10:25,11:05,Science,TCH0023,Nikhil Ghosh,Room-112,0,2025-26
+TT000926,7,A,Tuesday,6,11:05,11:45,Mathematics,TCH0028,Gauri Deshpande,Room-308,0,2025-26
+TT000927,7,A,Tuesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-315,0,2025-26
+TT000928,7,A,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-107,0,2025-26
+TT000929,7,A,Wednesday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G07,0,2025-26
+TT000930,7,A,Wednesday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-111,0,2025-26
+TT000931,7,A,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT000932,7,A,Wednesday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-302,0,2025-26
+TT000933,7,A,Wednesday,5,10:25,11:05,Physical Education,TCH0048,Kavya Sen,Room-106,0,2025-26
+TT000934,7,A,Wednesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-106,0,2025-26
+TT000935,7,A,Wednesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-G12,0,2025-26
+TT000936,7,A,Wednesday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-G14,0,2025-26
+TT000937,7,A,Thursday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-109,0,2025-26
+TT000938,7,A,Thursday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-107,0,2025-26
+TT000939,7,A,Thursday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-314,0,2025-26
+TT000940,7,A,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G09,0,2025-26
+TT000941,7,A,Thursday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT000942,7,A,Thursday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-109,0,2025-26
+TT000943,7,A,Thursday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-211,0,2025-26
+TT000944,7,A,Thursday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-G10,0,2025-26
+TT000945,7,A,Friday,1,07:30,08:10,Science,TCH0067,Saanvi Ghosh,Room-114,0,2025-26
+TT000946,7,A,Friday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-G02,0,2025-26
+TT000947,7,A,Friday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-115,0,2025-26
+TT000948,7,A,Friday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-213,0,2025-26
+TT000949,7,A,Friday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-306,0,2025-26
+TT000950,7,A,Friday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT000951,7,A,Friday,7,12:00,12:40,Science,TCH0025,Darsh Patel,Room-201,0,2025-26
+TT000952,7,A,Friday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-304,0,2025-26
+TT000953,7,A,Saturday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-G10,0,2025-26
+TT000954,7,A,Saturday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-G03,0,2025-26
+TT000955,7,A,Saturday,3,08:50,09:30,Science,TCH0069,Isha Bhat,Room-101,0,2025-26
+TT000956,7,A,Saturday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-214,0,2025-26
+TT000957,7,A,Saturday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-106,0,2025-26
+TT000958,7,A,Saturday,6,11:05,11:45,Science,TCH0013,Avni Ghosh,Room-G13,0,2025-26
+TT000959,7,A,Saturday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-310,1,2025-26
+TT000960,7,A,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-201,0,2025-26
+TT000961,7,B,Monday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-208,0,2025-26
+TT000962,7,B,Monday,2,08:10,08:50,Science,TCH0004,Rohan Sinha,Room-308,0,2025-26
+TT000963,7,B,Monday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-205,0,2025-26
+TT000964,7,B,Monday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-107,0,2025-26
+TT000965,7,B,Monday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-208,0,2025-26
+TT000966,7,B,Monday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-102,0,2025-26
+TT000967,7,B,Monday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-204,0,2025-26
+TT000968,7,B,Monday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-205,1,2025-26
+TT000969,7,B,Tuesday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-G06,0,2025-26
+TT000970,7,B,Tuesday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-101,0,2025-26
+TT000971,7,B,Tuesday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-308,0,2025-26
+TT000972,7,B,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-214,0,2025-26
+TT000973,7,B,Tuesday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-111,0,2025-26
+TT000974,7,B,Tuesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-304,0,2025-26
+TT000975,7,B,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000976,7,B,Tuesday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-G02,0,2025-26
+TT000977,7,B,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G05,0,2025-26
+TT000978,7,B,Wednesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-G09,0,2025-26
+TT000979,7,B,Wednesday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-102,0,2025-26
+TT000980,7,B,Wednesday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-106,0,2025-26
+TT000981,7,B,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-303,0,2025-26
+TT000982,7,B,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-303,0,2025-26
+TT000983,7,B,Wednesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT000984,7,B,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-302,0,2025-26
+TT000985,7,B,Thursday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G11,0,2025-26
+TT000986,7,B,Thursday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-G04,0,2025-26
+TT000987,7,B,Thursday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-108,0,2025-26
+TT000988,7,B,Thursday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-G09,0,2025-26
+TT000989,7,B,Thursday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT000990,7,B,Thursday,6,11:05,11:45,Science,TCH0017,Lavanya Sinha,Room-111,0,2025-26
+TT000991,7,B,Thursday,7,12:00,12:40,Hindi,TCH0066,Nikhil Shah,Room-111,0,2025-26
+TT000992,7,B,Thursday,8,12:40,13:20,Science,TCH0061,Gauri Chauhan,Room-207,0,2025-26
+TT000993,7,B,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G04,0,2025-26
+TT000994,7,B,Friday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-301,0,2025-26
+TT000995,7,B,Friday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-301,0,2025-26
+TT000996,7,B,Friday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-107,1,2025-26
+TT000997,7,B,Friday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-213,1,2025-26
+TT000998,7,B,Friday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-305,0,2025-26
+TT000999,7,B,Friday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-313,0,2025-26
+TT001000,7,B,Friday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-202,0,2025-26
+TT001001,7,B,Saturday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-211,0,2025-26
+TT001002,7,B,Saturday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-G04,0,2025-26
+TT001003,7,B,Saturday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-303,0,2025-26
+TT001004,7,B,Saturday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-G07,0,2025-26
+TT001005,7,B,Saturday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-314,0,2025-26
+TT001006,7,B,Saturday,6,11:05,11:45,Science,TCH0065,Anika Saxena,Room-304,0,2025-26
+TT001007,7,B,Saturday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-102,0,2025-26
+TT001008,7,B,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-107,0,2025-26
+TT001009,7,C,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-210,0,2025-26
+TT001010,7,C,Monday,2,08:10,08:50,Science,TCH0039,Radhika Patil,Room-G15,0,2025-26
+TT001011,7,C,Monday,3,08:50,09:30,Social Studies,TCH0006,Jiya Bhandari,Room-G06,0,2025-26
+TT001012,7,C,Monday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-113,0,2025-26
+TT001013,7,C,Monday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT001014,7,C,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT001015,7,C,Monday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-213,0,2025-26
+TT001016,7,C,Monday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-310,0,2025-26
+TT001017,7,C,Tuesday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-310,0,2025-26
+TT001018,7,C,Tuesday,2,08:10,08:50,Science,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT001019,7,C,Tuesday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-G09,0,2025-26
+TT001020,7,C,Tuesday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-107,0,2025-26
+TT001021,7,C,Tuesday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-210,0,2025-26
+TT001022,7,C,Tuesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-204,0,2025-26
+TT001023,7,C,Tuesday,7,12:00,12:40,Computer Science,TCH0024,Kabir Das,Room-214,0,2025-26
+TT001024,7,C,Tuesday,8,12:40,13:20,Science,TCH0003,Aarav Gupta,Room-G07,0,2025-26
+TT001025,7,C,Wednesday,1,07:30,08:10,Science,TCH0061,Gauri Chauhan,Room-111,0,2025-26
+TT001026,7,C,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-108,0,2025-26
+TT001027,7,C,Wednesday,3,08:50,09:30,Science,TCH0003,Aarav Gupta,Room-G01,0,2025-26
+TT001028,7,C,Wednesday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-303,0,2025-26
+TT001029,7,C,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT001030,7,C,Wednesday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-G12,0,2025-26
+TT001031,7,C,Wednesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-212,0,2025-26
+TT001032,7,C,Wednesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-208,0,2025-26
+TT001033,7,C,Thursday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT001034,7,C,Thursday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-107,0,2025-26
+TT001035,7,C,Thursday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-204,0,2025-26
+TT001036,7,C,Thursday,4,09:45,10:25,Science,TCH0038,Kavya Thakur,Room-312,0,2025-26
+TT001037,7,C,Thursday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-306,0,2025-26
+TT001038,7,C,Thursday,6,11:05,11:45,Science,TCH0023,Nikhil Ghosh,Room-311,0,2025-26
+TT001039,7,C,Thursday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-312,0,2025-26
+TT001040,7,C,Thursday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-312,0,2025-26
+TT001041,7,C,Friday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-G07,0,2025-26
+TT001042,7,C,Friday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-207,0,2025-26
+TT001043,7,C,Friday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-G08,0,2025-26
+TT001044,7,C,Friday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-108,0,2025-26
+TT001045,7,C,Friday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-212,0,2025-26
+TT001046,7,C,Friday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-G06,0,2025-26
+TT001047,7,C,Friday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-109,0,2025-26
+TT001048,7,C,Friday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-305,0,2025-26
+TT001049,7,C,Saturday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-205,1,2025-26
+TT001050,7,C,Saturday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-113,1,2025-26
+TT001051,7,C,Saturday,3,08:50,09:30,Science,TCH0055,Nikhil Ghosh,Room-301,0,2025-26
+TT001052,7,C,Saturday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-301,0,2025-26
+TT001053,7,C,Saturday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-104,0,2025-26
+TT001054,7,C,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-115,0,2025-26
+TT001055,7,C,Saturday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-101,0,2025-26
+TT001056,7,C,Saturday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-101,0,2025-26
+TT001057,7,D,Monday,1,07:30,08:10,Science,TCH0038,Kavya Thakur,Room-G14,0,2025-26
+TT001058,7,D,Monday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-110,0,2025-26
+TT001059,7,D,Monday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-309,0,2025-26
+TT001060,7,D,Monday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-202,0,2025-26
+TT001061,7,D,Monday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-115,1,2025-26
+TT001062,7,D,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-G06,0,2025-26
+TT001063,7,D,Monday,7,12:00,12:40,Science,TCH0004,Rohan Sinha,Room-204,0,2025-26
+TT001064,7,D,Monday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-301,0,2025-26
+TT001065,7,D,Tuesday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-G09,0,2025-26
+TT001066,7,D,Tuesday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-105,0,2025-26
+TT001067,7,D,Tuesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT001068,7,D,Tuesday,4,09:45,10:25,Science,TCH0027,Rishi Sinha,Room-G08,0,2025-26
+TT001069,7,D,Tuesday,5,10:25,11:05,Science,TCH0023,Nikhil Ghosh,Room-105,0,2025-26
+TT001070,7,D,Tuesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-113,0,2025-26
+TT001071,7,D,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT001072,7,D,Tuesday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-G15,0,2025-26
+TT001073,7,D,Wednesday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-311,0,2025-26
+TT001074,7,D,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-314,0,2025-26
+TT001075,7,D,Wednesday,3,08:50,09:30,Science,TCH0024,Kabir Das,Room-101,0,2025-26
+TT001076,7,D,Wednesday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-109,0,2025-26
+TT001077,7,D,Wednesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT001078,7,D,Wednesday,6,11:05,11:45,Science,TCH0036,Kartik Bhat,Room-G11,0,2025-26
+TT001079,7,D,Wednesday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-311,0,2025-26
+TT001080,7,D,Wednesday,8,12:40,13:20,Hindi,TCH0015,Parth Chatterjee,Room-207,0,2025-26
+TT001081,7,D,Thursday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-101,0,2025-26
+TT001082,7,D,Thursday,2,08:10,08:50,Social Studies,TCH0056,Siya Mukherjee,Room-209,0,2025-26
+TT001083,7,D,Thursday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-201,0,2025-26
+TT001084,7,D,Thursday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-G11,0,2025-26
+TT001085,7,D,Thursday,5,10:25,11:05,Science,TCH0015,Parth Chatterjee,Room-101,0,2025-26
+TT001086,7,D,Thursday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-314,0,2025-26
+TT001087,7,D,Thursday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-109,0,2025-26
+TT001088,7,D,Thursday,8,12:40,13:20,Science,TCH0048,Kavya Sen,Room-214,0,2025-26
+TT001089,7,D,Friday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT001090,7,D,Friday,2,08:10,08:50,Science,TCH0055,Nikhil Ghosh,Room-215,0,2025-26
+TT001091,7,D,Friday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-311,0,2025-26
+TT001092,7,D,Friday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-G04,0,2025-26
+TT001093,7,D,Friday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-211,0,2025-26
+TT001094,7,D,Friday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-G15,0,2025-26
+TT001095,7,D,Friday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-107,0,2025-26
+TT001096,7,D,Friday,8,12:40,13:20,Science,TCH0055,Nikhil Ghosh,Room-314,0,2025-26
+TT001097,7,D,Saturday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-114,0,2025-26
+TT001098,7,D,Saturday,2,08:10,08:50,Science,TCH0030,Nandini Iyer,Room-205,0,2025-26
+TT001099,7,D,Saturday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-G07,0,2025-26
+TT001100,7,D,Saturday,4,09:45,10:25,Science,TCH0044,Siddharth Chatterjee,Room-212,0,2025-26
+TT001101,7,D,Saturday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-315,0,2025-26
+TT001102,7,D,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT001103,7,D,Saturday,7,12:00,12:40,Social Studies,TCH0036,Kartik Bhat,Room-207,0,2025-26
+TT001104,7,D,Saturday,8,12:40,13:20,Science,TCH0035,Lavanya Jain,Room-313,0,2025-26
+TT001105,8,A,Monday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-309,0,2025-26
+TT001106,8,A,Monday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-311,0,2025-26
+TT001107,8,A,Monday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-308,0,2025-26
+TT001108,8,A,Monday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-301,1,2025-26
+TT001109,8,A,Monday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-203,0,2025-26
+TT001110,8,A,Monday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-307,0,2025-26
+TT001111,8,A,Monday,7,12:00,12:40,Hindi,TCH0066,Nikhil Shah,Room-204,0,2025-26
+TT001112,8,A,Monday,8,12:40,13:20,Social Studies,TCH0036,Kartik Bhat,Room-305,0,2025-26
+TT001113,8,A,Tuesday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-G15,0,2025-26
+TT001114,8,A,Tuesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-109,0,2025-26
+TT001115,8,A,Tuesday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-205,0,2025-26
+TT001116,8,A,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-104,0,2025-26
+TT001117,8,A,Tuesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-212,0,2025-26
+TT001118,8,A,Tuesday,6,11:05,11:45,Science,TCH0026,Siya Malhotra,Room-114,0,2025-26
+TT001119,8,A,Tuesday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-G11,0,2025-26
+TT001120,8,A,Tuesday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-302,0,2025-26
+TT001121,8,A,Wednesday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-212,0,2025-26
+TT001122,8,A,Wednesday,2,08:10,08:50,Science,TCH0079,Ishaan Chauhan,Room-112,0,2025-26
+TT001123,8,A,Wednesday,3,08:50,09:30,Science,TCH0051,Tanvi Shah,Room-103,0,2025-26
+TT001124,8,A,Wednesday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-G14,0,2025-26
+TT001125,8,A,Wednesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-203,0,2025-26
+TT001126,8,A,Wednesday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-G11,0,2025-26
+TT001127,8,A,Wednesday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-115,0,2025-26
+TT001128,8,A,Wednesday,8,12:40,13:20,Science,TCH0042,Arnav Kale,Room-211,0,2025-26
+TT001129,8,A,Thursday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-G15,0,2025-26
+TT001130,8,A,Thursday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-107,0,2025-26
+TT001131,8,A,Thursday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-307,0,2025-26
+TT001132,8,A,Thursday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-111,0,2025-26
+TT001133,8,A,Thursday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-308,1,2025-26
+TT001134,8,A,Thursday,6,11:05,11:45,Science,TCH0001,Laksh Chatterjee,Room-307,0,2025-26
+TT001135,8,A,Thursday,7,12:00,12:40,Science,TCH0071,Ananya Iyer,Room-G04,0,2025-26
+TT001136,8,A,Thursday,8,12:40,13:20,Hindi,TCH0066,Nikhil Shah,Room-310,0,2025-26
+TT001137,8,A,Friday,1,07:30,08:10,Hindi,TCH0063,Dhruv Mehta,Room-G01,0,2025-26
+TT001138,8,A,Friday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-G09,0,2025-26
+TT001139,8,A,Friday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-202,0,2025-26
+TT001140,8,A,Friday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-111,0,2025-26
+TT001141,8,A,Friday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-308,0,2025-26
+TT001142,8,A,Friday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT001143,8,A,Friday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-205,0,2025-26
+TT001144,8,A,Friday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-208,0,2025-26
+TT001145,8,A,Saturday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-104,0,2025-26
+TT001146,8,A,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-104,0,2025-26
+TT001147,8,A,Saturday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-G06,0,2025-26
+TT001148,8,A,Saturday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-302,0,2025-26
+TT001149,8,A,Saturday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-208,0,2025-26
+TT001150,8,A,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-G10,0,2025-26
+TT001151,8,A,Saturday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT001152,8,A,Saturday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-303,0,2025-26
+TT001153,8,B,Monday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-213,0,2025-26
+TT001154,8,B,Monday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-101,0,2025-26
+TT001155,8,B,Monday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-105,0,2025-26
+TT001156,8,B,Monday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-308,0,2025-26
+TT001157,8,B,Monday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-103,0,2025-26
+TT001158,8,B,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-312,0,2025-26
+TT001159,8,B,Monday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-309,0,2025-26
+TT001160,8,B,Monday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT001161,8,B,Tuesday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-214,1,2025-26
+TT001162,8,B,Tuesday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-310,0,2025-26
+TT001163,8,B,Tuesday,3,08:50,09:30,Science,TCH0028,Gauri Deshpande,Room-G06,0,2025-26
+TT001164,8,B,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-210,0,2025-26
+TT001165,8,B,Tuesday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-110,0,2025-26
+TT001166,8,B,Tuesday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-G15,0,2025-26
+TT001167,8,B,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G02,0,2025-26
+TT001168,8,B,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT001169,8,B,Wednesday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-208,0,2025-26
+TT001170,8,B,Wednesday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-104,0,2025-26
+TT001171,8,B,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-313,0,2025-26
+TT001172,8,B,Wednesday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-107,0,2025-26
+TT001173,8,B,Wednesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-114,0,2025-26
+TT001174,8,B,Wednesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-G04,0,2025-26
+TT001175,8,B,Wednesday,7,12:00,12:40,Science,TCH0044,Siddharth Chatterjee,Room-212,0,2025-26
+TT001176,8,B,Wednesday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-312,0,2025-26
+TT001177,8,B,Thursday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-G14,0,2025-26
+TT001178,8,B,Thursday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-312,0,2025-26
+TT001179,8,B,Thursday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-104,0,2025-26
+TT001180,8,B,Thursday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-213,0,2025-26
+TT001181,8,B,Thursday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-G04,0,2025-26
+TT001182,8,B,Thursday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-211,0,2025-26
+TT001183,8,B,Thursday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-215,0,2025-26
+TT001184,8,B,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-G11,0,2025-26
+TT001185,8,B,Friday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-113,0,2025-26
+TT001186,8,B,Friday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-112,0,2025-26
+TT001187,8,B,Friday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-111,0,2025-26
+TT001188,8,B,Friday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-110,0,2025-26
+TT001189,8,B,Friday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-105,0,2025-26
+TT001190,8,B,Friday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-202,0,2025-26
+TT001191,8,B,Friday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-207,0,2025-26
+TT001192,8,B,Friday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-G05,0,2025-26
+TT001193,8,B,Saturday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-310,0,2025-26
+TT001194,8,B,Saturday,2,08:10,08:50,Science,TCH0060,Trisha Pawar,Room-108,0,2025-26
+TT001195,8,B,Saturday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-306,0,2025-26
+TT001196,8,B,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-114,0,2025-26
+TT001197,8,B,Saturday,5,10:25,11:05,Science,TCH0019,Aadhya Kulkarni,Room-103,0,2025-26
+TT001198,8,B,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-G03,0,2025-26
+TT001199,8,B,Saturday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-305,0,2025-26
+TT001200,8,B,Saturday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-314,0,2025-26
+TT001201,8,C,Monday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G11,0,2025-26
+TT001202,8,C,Monday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-203,0,2025-26
+TT001203,8,C,Monday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-111,0,2025-26
+TT001204,8,C,Monday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-G06,0,2025-26
+TT001205,8,C,Monday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-203,0,2025-26
+TT001206,8,C,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT001207,8,C,Monday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-310,0,2025-26
+TT001208,8,C,Monday,8,12:40,13:20,Social Studies,TCH0006,Jiya Bhandari,Room-102,0,2025-26
+TT001209,8,C,Tuesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT001210,8,C,Tuesday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-G12,0,2025-26
+TT001211,8,C,Tuesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-G08,0,2025-26
+TT001212,8,C,Tuesday,4,09:45,10:25,Mathematics,TCH0026,Siya Malhotra,Room-112,0,2025-26
+TT001213,8,C,Tuesday,5,10:25,11:05,Science,TCH0074,Tara Rao,Room-112,0,2025-26
+TT001214,8,C,Tuesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-303,0,2025-26
+TT001215,8,C,Tuesday,7,12:00,12:40,Science,TCH0008,Dhruv Saxena,Room-305,0,2025-26
+TT001216,8,C,Tuesday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT001217,8,C,Wednesday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G05,0,2025-26
+TT001218,8,C,Wednesday,2,08:10,08:50,Science,TCH0069,Isha Bhat,Room-G01,0,2025-26
+TT001219,8,C,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-313,0,2025-26
+TT001220,8,C,Wednesday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-315,0,2025-26
+TT001221,8,C,Wednesday,5,10:25,11:05,Science,TCH0064,Zara Reddy,Room-302,0,2025-26
+TT001222,8,C,Wednesday,6,11:05,11:45,Science,TCH0050,Aryan Singh,Room-214,0,2025-26
+TT001223,8,C,Wednesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-302,0,2025-26
+TT001224,8,C,Wednesday,8,12:40,13:20,Mathematics,TCH0043,Divya Sharma,Room-G06,0,2025-26
+TT001225,8,C,Thursday,1,07:30,08:10,Social Studies,TCH0079,Ishaan Chauhan,Room-309,0,2025-26
+TT001226,8,C,Thursday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-112,0,2025-26
+TT001227,8,C,Thursday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-G12,0,2025-26
+TT001228,8,C,Thursday,4,09:45,10:25,Science,TCH0023,Nikhil Ghosh,Room-G08,0,2025-26
+TT001229,8,C,Thursday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-114,0,2025-26
+TT001230,8,C,Thursday,6,11:05,11:45,Science,TCH0031,Pari Deshmukh,Room-204,0,2025-26
+TT001231,8,C,Thursday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-G08,0,2025-26
+TT001232,8,C,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-105,0,2025-26
+TT001233,8,C,Friday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-G10,0,2025-26
+TT001234,8,C,Friday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-213,0,2025-26
+TT001235,8,C,Friday,3,08:50,09:30,Computer Science,TCH0041,Vihaan Bhandari,Room-308,1,2025-26
+TT001236,8,C,Friday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G10,0,2025-26
+TT001237,8,C,Friday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-205,0,2025-26
+TT001238,8,C,Friday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-213,0,2025-26
+TT001239,8,C,Friday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-G03,0,2025-26
+TT001240,8,C,Friday,8,12:40,13:20,Social Studies,TCH0056,Siya Mukherjee,Room-107,0,2025-26
+TT001241,8,C,Saturday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-G09,0,2025-26
+TT001242,8,C,Saturday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-108,0,2025-26
+TT001243,8,C,Saturday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-G12,0,2025-26
+TT001244,8,C,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT001245,8,C,Saturday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-G03,1,2025-26
+TT001246,8,C,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-101,0,2025-26
+TT001247,8,C,Saturday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-312,0,2025-26
+TT001248,8,C,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-103,0,2025-26
+TT001249,8,D,Monday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT001250,8,D,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-G10,0,2025-26
+TT001251,8,D,Monday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-301,0,2025-26
+TT001252,8,D,Monday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-201,0,2025-26
+TT001253,8,D,Monday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-G15,0,2025-26
+TT001254,8,D,Monday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-307,0,2025-26
+TT001255,8,D,Monday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-212,0,2025-26
+TT001256,8,D,Monday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-303,0,2025-26
+TT001257,8,D,Tuesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT001258,8,D,Tuesday,2,08:10,08:50,Science,TCH0053,Siya Sharma,Room-304,0,2025-26
+TT001259,8,D,Tuesday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-G07,0,2025-26
+TT001260,8,D,Tuesday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-306,0,2025-26
+TT001261,8,D,Tuesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-G11,0,2025-26
+TT001262,8,D,Tuesday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-211,0,2025-26
+TT001263,8,D,Tuesday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-301,0,2025-26
+TT001264,8,D,Tuesday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-207,0,2025-26
+TT001265,8,D,Wednesday,1,07:30,08:10,Science,TCH0005,Aanya Jadhav,Room-314,0,2025-26
+TT001266,8,D,Wednesday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-303,0,2025-26
+TT001267,8,D,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-G10,0,2025-26
+TT001268,8,D,Wednesday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-G10,0,2025-26
+TT001269,8,D,Wednesday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-G02,0,2025-26
+TT001270,8,D,Wednesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-203,0,2025-26
+TT001271,8,D,Wednesday,7,12:00,12:40,Science,TCH0045,Avni Sen,Room-306,0,2025-26
+TT001272,8,D,Wednesday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-302,0,2025-26
+TT001273,8,D,Thursday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-206,0,2025-26
+TT001274,8,D,Thursday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-305,0,2025-26
+TT001275,8,D,Thursday,3,08:50,09:30,Science,TCH0014,Mira Gupta,Room-205,0,2025-26
+TT001276,8,D,Thursday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-G05,0,2025-26
+TT001277,8,D,Thursday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-103,0,2025-26
+TT001278,8,D,Thursday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-305,0,2025-26
+TT001279,8,D,Thursday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-G12,0,2025-26
+TT001280,8,D,Thursday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-312,0,2025-26
+TT001281,8,D,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-310,0,2025-26
+TT001282,8,D,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G09,0,2025-26
+TT001283,8,D,Friday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-312,0,2025-26
+TT001284,8,D,Friday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-202,0,2025-26
+TT001285,8,D,Friday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-302,0,2025-26
+TT001286,8,D,Friday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-G09,0,2025-26
+TT001287,8,D,Friday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-115,0,2025-26
+TT001288,8,D,Friday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-211,0,2025-26
+TT001289,8,D,Saturday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-108,0,2025-26
+TT001290,8,D,Saturday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-310,0,2025-26
+TT001291,8,D,Saturday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-G04,0,2025-26
+TT001292,8,D,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-304,0,2025-26
+TT001293,8,D,Saturday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-G11,0,2025-26
+TT001294,8,D,Saturday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-213,0,2025-26
+TT001295,8,D,Saturday,7,12:00,12:40,Science,TCH0059,Sara Pawar,Room-206,0,2025-26
+TT001296,8,D,Saturday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-206,0,2025-26
+TT001297,9,A,Monday,1,07:30,08:10,Hindi,TCH0063,Dhruv Mehta,Room-G05,0,2025-26
+TT001298,9,A,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-113,0,2025-26
+TT001299,9,A,Monday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-204,0,2025-26
+TT001300,9,A,Monday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-208,0,2025-26
+TT001301,9,A,Monday,5,10:25,11:05,Science,TCH0080,Angel Mahajan,Room-304,0,2025-26
+TT001302,9,A,Monday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-G06,0,2025-26
+TT001303,9,A,Monday,7,12:00,12:40,Science,TCH0060,Trisha Pawar,Room-112,0,2025-26
+TT001304,9,A,Monday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-311,0,2025-26
+TT001305,9,A,Tuesday,1,07:30,08:10,Science,TCH0035,Lavanya Jain,Room-G02,0,2025-26
+TT001306,9,A,Tuesday,2,08:10,08:50,Science,TCH0064,Zara Reddy,Room-215,0,2025-26
+TT001307,9,A,Tuesday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-115,0,2025-26
+TT001308,9,A,Tuesday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-312,0,2025-26
+TT001309,9,A,Tuesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-115,0,2025-26
+TT001310,9,A,Tuesday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-306,0,2025-26
+TT001311,9,A,Tuesday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-313,0,2025-26
+TT001312,9,A,Tuesday,8,12:40,13:20,Social Studies,TCH0079,Ishaan Chauhan,Room-G09,0,2025-26
+TT001313,9,A,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT001314,9,A,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-312,0,2025-26
+TT001315,9,A,Wednesday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-113,0,2025-26
+TT001316,9,A,Wednesday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-109,0,2025-26
+TT001317,9,A,Wednesday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-G06,0,2025-26
+TT001318,9,A,Wednesday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-106,1,2025-26
+TT001319,9,A,Wednesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-306,0,2025-26
+TT001320,9,A,Wednesday,8,12:40,13:20,Science,TCH0007,Rudra Thakur,Room-307,0,2025-26
+TT001321,9,A,Thursday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-315,0,2025-26
+TT001322,9,A,Thursday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-312,0,2025-26
+TT001323,9,A,Thursday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-104,0,2025-26
+TT001324,9,A,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G07,0,2025-26
+TT001325,9,A,Thursday,5,10:25,11:05,Hindi,TCH0063,Dhruv Mehta,Room-103,0,2025-26
+TT001326,9,A,Thursday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-G11,0,2025-26
+TT001327,9,A,Thursday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT001328,9,A,Thursday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-G02,0,2025-26
+TT001329,9,A,Friday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-102,0,2025-26
+TT001330,9,A,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT001331,9,A,Friday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G08,0,2025-26
+TT001332,9,A,Friday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-313,0,2025-26
+TT001333,9,A,Friday,5,10:25,11:05,Science,TCH0017,Lavanya Sinha,Room-307,0,2025-26
+TT001334,9,A,Friday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-308,0,2025-26
+TT001335,9,A,Friday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-202,0,2025-26
+TT001336,9,A,Friday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT001337,9,A,Saturday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-204,0,2025-26
+TT001338,9,A,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G02,0,2025-26
+TT001339,9,A,Saturday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G10,0,2025-26
+TT001340,9,A,Saturday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-304,0,2025-26
+TT001341,9,A,Saturday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-G13,0,2025-26
+TT001342,9,A,Saturday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-106,0,2025-26
+TT001343,9,A,Saturday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-109,0,2025-26
+TT001344,9,A,Saturday,8,12:40,13:20,Hindi,TCH0063,Dhruv Mehta,Room-109,0,2025-26
+TT001345,9,B,Monday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-G11,0,2025-26
+TT001346,9,B,Monday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-G15,0,2025-26
+TT001347,9,B,Monday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-315,0,2025-26
+TT001348,9,B,Monday,4,09:45,10:25,Physical Education,TCH0077,Siya Ghosh,Room-209,0,2025-26
+TT001349,9,B,Monday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-G13,1,2025-26
+TT001350,9,B,Monday,6,11:05,11:45,Hindi,TCH0015,Parth Chatterjee,Room-312,0,2025-26
+TT001351,9,B,Monday,7,12:00,12:40,Hindi,TCH0063,Dhruv Mehta,Room-207,0,2025-26
+TT001352,9,B,Monday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-309,1,2025-26
+TT001353,9,B,Tuesday,1,07:30,08:10,Science,TCH0044,Siddharth Chatterjee,Room-208,0,2025-26
+TT001354,9,B,Tuesday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-309,0,2025-26
+TT001355,9,B,Tuesday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-G11,0,2025-26
+TT001356,9,B,Tuesday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-113,0,2025-26
+TT001357,9,B,Tuesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT001358,9,B,Tuesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-111,0,2025-26
+TT001359,9,B,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G03,0,2025-26
+TT001360,9,B,Tuesday,8,12:40,13:20,Mathematics,TCH0043,Divya Sharma,Room-104,0,2025-26
+TT001361,9,B,Wednesday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-208,0,2025-26
+TT001362,9,B,Wednesday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-G11,0,2025-26
+TT001363,9,B,Wednesday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-G08,0,2025-26
+TT001364,9,B,Wednesday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-101,0,2025-26
+TT001365,9,B,Wednesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-108,1,2025-26
+TT001366,9,B,Wednesday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-305,0,2025-26
+TT001367,9,B,Wednesday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-G06,0,2025-26
+TT001368,9,B,Wednesday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-G02,1,2025-26
+TT001369,9,B,Thursday,1,07:30,08:10,Science,TCH0061,Gauri Chauhan,Room-306,0,2025-26
+TT001370,9,B,Thursday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-301,0,2025-26
+TT001371,9,B,Thursday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-206,0,2025-26
+TT001372,9,B,Thursday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-314,0,2025-26
+TT001373,9,B,Thursday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-311,1,2025-26
+TT001374,9,B,Thursday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-G15,0,2025-26
+TT001375,9,B,Thursday,7,12:00,12:40,Science,TCH0071,Ananya Iyer,Room-G07,0,2025-26
+TT001376,9,B,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-309,0,2025-26
+TT001377,9,B,Friday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-G01,0,2025-26
+TT001378,9,B,Friday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-314,0,2025-26
+TT001379,9,B,Friday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-G11,0,2025-26
+TT001380,9,B,Friday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-108,0,2025-26
+TT001381,9,B,Friday,5,10:25,11:05,Social Studies,TCH0006,Jiya Bhandari,Room-204,0,2025-26
+TT001382,9,B,Friday,6,11:05,11:45,Science,TCH0049,Anvi Dubey,Room-212,0,2025-26
+TT001383,9,B,Friday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-110,0,2025-26
+TT001384,9,B,Friday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-310,0,2025-26
+TT001385,9,B,Saturday,1,07:30,08:10,Social Studies,TCH0036,Kartik Bhat,Room-112,0,2025-26
+TT001386,9,B,Saturday,2,08:10,08:50,Social Studies,TCH0079,Ishaan Chauhan,Room-313,0,2025-26
+TT001387,9,B,Saturday,3,08:50,09:30,Science,TCH0016,Sai Kapoor,Room-304,0,2025-26
+TT001388,9,B,Saturday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-G10,0,2025-26
+TT001389,9,B,Saturday,5,10:25,11:05,Mathematics,TCH0043,Divya Sharma,Room-211,0,2025-26
+TT001390,9,B,Saturday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-G13,0,2025-26
+TT001391,9,B,Saturday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT001392,9,B,Saturday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-306,0,2025-26
+TT001393,9,C,Monday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-115,0,2025-26
+TT001394,9,C,Monday,2,08:10,08:50,Science,TCH0039,Radhika Patil,Room-104,0,2025-26
+TT001395,9,C,Monday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-207,0,2025-26
+TT001396,9,C,Monday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-305,0,2025-26
+TT001397,9,C,Monday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-G07,0,2025-26
+TT001398,9,C,Monday,6,11:05,11:45,Hindi,TCH0004,Rohan Sinha,Room-G13,0,2025-26
+TT001399,9,C,Monday,7,12:00,12:40,Science,TCH0042,Arnav Kale,Room-G01,0,2025-26
+TT001400,9,C,Monday,8,12:40,13:20,Science,TCH0031,Pari Deshmukh,Room-206,0,2025-26
+TT001401,9,C,Tuesday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-306,0,2025-26
+TT001402,9,C,Tuesday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-204,0,2025-26
+TT001403,9,C,Tuesday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-211,0,2025-26
+TT001404,9,C,Tuesday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-G03,0,2025-26
+TT001405,9,C,Tuesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-115,0,2025-26
+TT001406,9,C,Tuesday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-305,0,2025-26
+TT001407,9,C,Tuesday,7,12:00,12:40,Science,TCH0029,Myra Chavan,Room-314,0,2025-26
+TT001408,9,C,Tuesday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-G11,0,2025-26
+TT001409,9,C,Wednesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-G06,1,2025-26
+TT001410,9,C,Wednesday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-G15,0,2025-26
+TT001411,9,C,Wednesday,3,08:50,09:30,Science,TCH0048,Kavya Sen,Room-103,0,2025-26
+TT001412,9,C,Wednesday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-308,1,2025-26
+TT001413,9,C,Wednesday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-204,0,2025-26
+TT001414,9,C,Wednesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-115,0,2025-26
+TT001415,9,C,Wednesday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-109,0,2025-26
+TT001416,9,C,Wednesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-110,0,2025-26
+TT001417,9,C,Thursday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-206,0,2025-26
+TT001418,9,C,Thursday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-112,0,2025-26
+TT001419,9,C,Thursday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-G04,0,2025-26
+TT001420,9,C,Thursday,4,09:45,10:25,Science,TCH0021,Isha Dubey,Room-G10,0,2025-26
+TT001421,9,C,Thursday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-109,0,2025-26
+TT001422,9,C,Thursday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-215,0,2025-26
+TT001423,9,C,Thursday,7,12:00,12:40,Mathematics,TCH0026,Siya Malhotra,Room-105,0,2025-26
+TT001424,9,C,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-206,0,2025-26
+TT001425,9,C,Friday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-115,0,2025-26
+TT001426,9,C,Friday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-107,0,2025-26
+TT001427,9,C,Friday,3,08:50,09:30,Science,TCH0055,Nikhil Ghosh,Room-G02,0,2025-26
+TT001428,9,C,Friday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT001429,9,C,Friday,5,10:25,11:05,Science,TCH0045,Avni Sen,Room-108,0,2025-26
+TT001430,9,C,Friday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-213,0,2025-26
+TT001431,9,C,Friday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT001432,9,C,Friday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-203,0,2025-26
+TT001433,9,C,Saturday,1,07:30,08:10,English,TCH0070,Khushi Sinha,Room-G07,0,2025-26
+TT001434,9,C,Saturday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-G13,0,2025-26
+TT001435,9,C,Saturday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-107,0,2025-26
+TT001436,9,C,Saturday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-309,0,2025-26
+TT001437,9,C,Saturday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-306,0,2025-26
+TT001438,9,C,Saturday,6,11:05,11:45,Social Studies,TCH0079,Ishaan Chauhan,Room-206,0,2025-26
+TT001439,9,C,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G12,0,2025-26
+TT001440,9,C,Saturday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-104,0,2025-26
+TT001441,9,D,Monday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-205,0,2025-26
+TT001442,9,D,Monday,2,08:10,08:50,Science,TCH0001,Laksh Chatterjee,Room-106,0,2025-26
+TT001443,9,D,Monday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G10,0,2025-26
+TT001444,9,D,Monday,4,09:45,10:25,Science,TCH0059,Sara Pawar,Room-312,0,2025-26
+TT001445,9,D,Monday,5,10:25,11:05,Social Studies,TCH0056,Siya Mukherjee,Room-303,0,2025-26
+TT001446,9,D,Monday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-202,0,2025-26
+TT001447,9,D,Monday,7,12:00,12:40,Computer Science,TCH0041,Vihaan Bhandari,Room-G06,0,2025-26
+TT001448,9,D,Monday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-309,0,2025-26
+TT001449,9,D,Tuesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-207,0,2025-26
+TT001450,9,D,Tuesday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-311,0,2025-26
+TT001451,9,D,Tuesday,3,08:50,09:30,Science,TCH0013,Avni Ghosh,Room-G05,0,2025-26
+TT001452,9,D,Tuesday,4,09:45,10:25,Hindi,TCH0015,Parth Chatterjee,Room-104,0,2025-26
+TT001453,9,D,Tuesday,5,10:25,11:05,Social Studies,TCH0006,Jiya Bhandari,Room-110,0,2025-26
+TT001454,9,D,Tuesday,6,11:05,11:45,Science,TCH0052,Divya Verma,Room-108,0,2025-26
+TT001455,9,D,Tuesday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-G03,0,2025-26
+TT001456,9,D,Tuesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-315,0,2025-26
+TT001457,9,D,Wednesday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-211,0,2025-26
+TT001458,9,D,Wednesday,2,08:10,08:50,Hindi,TCH0004,Rohan Sinha,Room-310,0,2025-26
+TT001459,9,D,Wednesday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G04,0,2025-26
+TT001460,9,D,Wednesday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-G12,0,2025-26
+TT001461,9,D,Wednesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-303,0,2025-26
+TT001462,9,D,Wednesday,6,11:05,11:45,Social Studies,TCH0079,Ishaan Chauhan,Room-G13,0,2025-26
+TT001463,9,D,Wednesday,7,12:00,12:40,Social Studies,TCH0056,Siya Mukherjee,Room-308,0,2025-26
+TT001464,9,D,Wednesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT001465,9,D,Thursday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-213,0,2025-26
+TT001466,9,D,Thursday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-115,0,2025-26
+TT001467,9,D,Thursday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G05,0,2025-26
+TT001468,9,D,Thursday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-302,0,2025-26
+TT001469,9,D,Thursday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-304,0,2025-26
+TT001470,9,D,Thursday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-209,0,2025-26
+TT001471,9,D,Thursday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-101,0,2025-26
+TT001472,9,D,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-115,0,2025-26
+TT001473,9,D,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G04,0,2025-26
+TT001474,9,D,Friday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-315,0,2025-26
+TT001475,9,D,Friday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-G04,0,2025-26
+TT001476,9,D,Friday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-103,0,2025-26
+TT001477,9,D,Friday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-209,0,2025-26
+TT001478,9,D,Friday,6,11:05,11:45,Social Studies,TCH0006,Jiya Bhandari,Room-207,0,2025-26
+TT001479,9,D,Friday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-G13,0,2025-26
+TT001480,9,D,Friday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-310,0,2025-26
+TT001481,9,D,Saturday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-106,0,2025-26
+TT001482,9,D,Saturday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-204,0,2025-26
+TT001483,9,D,Saturday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-101,0,2025-26
+TT001484,9,D,Saturday,4,09:45,10:25,Science,TCH0035,Lavanya Jain,Room-G07,0,2025-26
+TT001485,9,D,Saturday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-103,0,2025-26
+TT001486,9,D,Saturday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-301,0,2025-26
+TT001487,9,D,Saturday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-213,0,2025-26
+TT001488,9,D,Saturday,8,12:40,13:20,Science,TCH0063,Dhruv Mehta,Room-313,0,2025-26
+TT001489,10,A,Monday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-102,0,2025-26
+TT001490,10,A,Monday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-310,0,2025-26
+TT001491,10,A,Monday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-314,0,2025-26
+TT001492,10,A,Monday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-G03,0,2025-26
+TT001493,10,A,Monday,5,10:25,11:05,Hindi,TCH0066,Nikhil Shah,Room-111,0,2025-26
+TT001494,10,A,Monday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT001495,10,A,Monday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-303,0,2025-26
+TT001496,10,A,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-304,0,2025-26
+TT001497,10,A,Tuesday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-G02,0,2025-26
+TT001498,10,A,Tuesday,2,08:10,08:50,Hindi,TCH0066,Nikhil Shah,Room-103,0,2025-26
+TT001499,10,A,Tuesday,3,08:50,09:30,Science,TCH0006,Jiya Bhandari,Room-309,0,2025-26
+TT001500,10,A,Tuesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-205,0,2025-26
+TT001501,10,A,Tuesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-313,0,2025-26
+TT001502,10,A,Tuesday,6,11:05,11:45,Social Studies,TCH0036,Kartik Bhat,Room-G14,0,2025-26
+TT001503,10,A,Tuesday,7,12:00,12:40,Hindi,TCH0015,Parth Chatterjee,Room-107,0,2025-26
+TT001504,10,A,Tuesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-G04,1,2025-26
+TT001505,10,A,Wednesday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-214,0,2025-26
+TT001506,10,A,Wednesday,2,08:10,08:50,Science,TCH0061,Gauri Chauhan,Room-312,0,2025-26
+TT001507,10,A,Wednesday,3,08:50,09:30,Social Studies,TCH0006,Jiya Bhandari,Room-101,0,2025-26
+TT001508,10,A,Wednesday,4,09:45,10:25,Science,TCH0034,Rahul Pandey,Room-G05,0,2025-26
+TT001509,10,A,Wednesday,5,10:25,11:05,Science,TCH0065,Anika Saxena,Room-101,0,2025-26
+TT001510,10,A,Wednesday,6,11:05,11:45,English,TCH0070,Khushi Sinha,Room-211,0,2025-26
+TT001511,10,A,Wednesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-115,0,2025-26
+TT001512,10,A,Wednesday,8,12:40,13:20,Mathematics,TCH0026,Siya Malhotra,Room-315,0,2025-26
+TT001513,10,A,Thursday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-315,0,2025-26
+TT001514,10,A,Thursday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-G08,0,2025-26
+TT001515,10,A,Thursday,3,08:50,09:30,Science,TCH0002,Radhika Mehta,Room-306,0,2025-26
+TT001516,10,A,Thursday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-108,0,2025-26
+TT001517,10,A,Thursday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-214,0,2025-26
+TT001518,10,A,Thursday,6,11:05,11:45,Hindi,TCH0066,Nikhil Shah,Room-206,0,2025-26
+TT001519,10,A,Thursday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-104,0,2025-26
+TT001520,10,A,Thursday,8,12:40,13:20,Science,TCH0010,Tanvi Saxena,Room-115,0,2025-26
+TT001521,10,A,Friday,1,07:30,08:10,Hindi,TCH0063,Dhruv Mehta,Room-112,0,2025-26
+TT001522,10,A,Friday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-110,0,2025-26
+TT001523,10,A,Friday,3,08:50,09:30,Science,TCH0073,Sneha Bhosale,Room-315,0,2025-26
+TT001524,10,A,Friday,4,09:45,10:25,Social Studies,TCH0079,Ishaan Chauhan,Room-101,0,2025-26
+TT001525,10,A,Friday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-306,0,2025-26
+TT001526,10,A,Friday,6,11:05,11:45,Science,TCH0053,Siya Sharma,Room-114,0,2025-26
+TT001527,10,A,Friday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-104,0,2025-26
+TT001528,10,A,Friday,8,12:40,13:20,Physical Education,TCH0077,Siya Ghosh,Room-306,0,2025-26
+TT001529,10,A,Saturday,1,07:30,08:10,Social Studies,TCH0056,Siya Mukherjee,Room-313,0,2025-26
+TT001530,10,A,Saturday,2,08:10,08:50,Physical Education,TCH0048,Kavya Sen,Room-304,0,2025-26
+TT001531,10,A,Saturday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-G04,1,2025-26
+TT001532,10,A,Saturday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-110,1,2025-26
+TT001533,10,A,Saturday,5,10:25,11:05,Social Studies,TCH0006,Jiya Bhandari,Room-312,0,2025-26
+TT001534,10,A,Saturday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-305,0,2025-26
+TT001535,10,A,Saturday,7,12:00,12:40,Social Studies,TCH0079,Ishaan Chauhan,Room-312,0,2025-26
+TT001536,10,A,Saturday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-205,0,2025-26
+TT001537,10,B,Monday,1,07:30,08:10,Social Studies,TCH0006,Jiya Bhandari,Room-G04,0,2025-26
+TT001538,10,B,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-314,0,2025-26
+TT001539,10,B,Monday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-203,0,2025-26
+TT001540,10,B,Monday,4,09:45,10:25,Science,TCH0080,Angel Mahajan,Room-104,0,2025-26
+TT001541,10,B,Monday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-213,0,2025-26
+TT001542,10,B,Monday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-209,0,2025-26
+TT001543,10,B,Monday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-212,0,2025-26
+TT001544,10,B,Monday,8,12:40,13:20,Science,TCH0077,Siya Ghosh,Room-307,0,2025-26
+TT001545,10,B,Tuesday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-303,0,2025-26
+TT001546,10,B,Tuesday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-G06,0,2025-26
+TT001547,10,B,Tuesday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-209,0,2025-26
+TT001548,10,B,Tuesday,4,09:45,10:25,Computer Science,TCH0024,Kabir Das,Room-208,0,2025-26
+TT001549,10,B,Tuesday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-305,0,2025-26
+TT001550,10,B,Tuesday,6,11:05,11:45,Science,TCH0070,Khushi Sinha,Room-303,0,2025-26
+TT001551,10,B,Tuesday,7,12:00,12:40,Science,TCH0029,Myra Chavan,Room-302,0,2025-26
+TT001552,10,B,Tuesday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT001553,10,B,Wednesday,1,07:30,08:10,Hindi,TCH0066,Nikhil Shah,Room-205,0,2025-26
+TT001554,10,B,Wednesday,2,08:10,08:50,Science,TCH0057,Anika Bhosale,Room-201,0,2025-26
+TT001555,10,B,Wednesday,3,08:50,09:30,English,TCH0070,Khushi Sinha,Room-210,0,2025-26
+TT001556,10,B,Wednesday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-214,0,2025-26
+TT001557,10,B,Wednesday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-107,0,2025-26
+TT001558,10,B,Wednesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-G03,0,2025-26
+TT001559,10,B,Wednesday,7,12:00,12:40,Physical Education,TCH0077,Siya Ghosh,Room-204,0,2025-26
+TT001560,10,B,Wednesday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-G05,0,2025-26
+TT001561,10,B,Thursday,1,07:30,08:10,Science,TCH0020,Advik Thakur,Room-308,0,2025-26
+TT001562,10,B,Thursday,2,08:10,08:50,Hindi,TCH0015,Parth Chatterjee,Room-301,0,2025-26
+TT001563,10,B,Thursday,3,08:50,09:30,Physical Education,TCH0077,Siya Ghosh,Room-G15,0,2025-26
+TT001564,10,B,Thursday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-201,0,2025-26
+TT001565,10,B,Thursday,5,10:25,11:05,Social Studies,TCH0079,Ishaan Chauhan,Room-G03,0,2025-26
+TT001566,10,B,Thursday,6,11:05,11:45,Hindi,TCH0063,Dhruv Mehta,Room-105,0,2025-26
+TT001567,10,B,Thursday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-308,0,2025-26
+TT001568,10,B,Thursday,8,12:40,13:20,Science,TCH0056,Siya Mukherjee,Room-311,0,2025-26
+TT001569,10,B,Friday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-G12,0,2025-26
+TT001570,10,B,Friday,2,08:10,08:50,Social Studies,TCH0036,Kartik Bhat,Room-G05,0,2025-26
+TT001571,10,B,Friday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-307,0,2025-26
+TT001572,10,B,Friday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G08,0,2025-26
+TT001573,10,B,Friday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-312,0,2025-26
+TT001574,10,B,Friday,6,11:05,11:45,Science,TCH0070,Khushi Sinha,Room-209,0,2025-26
+TT001575,10,B,Friday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G13,0,2025-26
+TT001576,10,B,Friday,8,12:40,13:20,Science,TCH0041,Vihaan Bhandari,Room-G08,0,2025-26
+TT001577,10,B,Saturday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-111,0,2025-26
+TT001578,10,B,Saturday,2,08:10,08:50,Hindi,TCH0063,Dhruv Mehta,Room-114,0,2025-26
+TT001579,10,B,Saturday,3,08:50,09:30,Hindi,TCH0066,Nikhil Shah,Room-308,0,2025-26
+TT001580,10,B,Saturday,4,09:45,10:25,Social Studies,TCH0056,Siya Mukherjee,Room-314,0,2025-26
+TT001581,10,B,Saturday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-314,0,2025-26
+TT001582,10,B,Saturday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-106,0,2025-26
+TT001583,10,B,Saturday,7,12:00,12:40,Hindi,TCH0004,Rohan Sinha,Room-306,0,2025-26
+TT001584,10,B,Saturday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-315,1,2025-26
+TT001585,10,C,Monday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-G08,0,2025-26
+TT001586,10,C,Monday,2,08:10,08:50,Science,TCH0046,Ahana Mahajan,Room-310,0,2025-26
+TT001587,10,C,Monday,3,08:50,09:30,Hindi,TCH0004,Rohan Sinha,Room-103,0,2025-26
+TT001588,10,C,Monday,4,09:45,10:25,Physical Education,TCH0048,Kavya Sen,Room-G02,0,2025-26
+TT001589,10,C,Monday,5,10:25,11:05,Social Studies,TCH0056,Siya Mukherjee,Room-G11,0,2025-26
+TT001590,10,C,Monday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-G14,0,2025-26
+TT001591,10,C,Monday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-307,0,2025-26
+TT001592,10,C,Monday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-311,0,2025-26
+TT001593,10,C,Tuesday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-305,0,2025-26
+TT001594,10,C,Tuesday,2,08:10,08:50,Science,TCH0036,Kartik Bhat,Room-211,0,2025-26
+TT001595,10,C,Tuesday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-209,1,2025-26
+TT001596,10,C,Tuesday,4,09:45,10:25,Science,TCH0017,Lavanya Sinha,Room-108,0,2025-26
+TT001597,10,C,Tuesday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-209,0,2025-26
+TT001598,10,C,Tuesday,6,11:05,11:45,Computer Science,TCH0041,Vihaan Bhandari,Room-210,1,2025-26
+TT001599,10,C,Tuesday,7,12:00,12:40,Social Studies,TCH0006,Jiya Bhandari,Room-210,0,2025-26
+TT001600,10,C,Tuesday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-201,0,2025-26
+TT001601,10,C,Wednesday,1,07:30,08:10,Science,TCH0072,Aaradhya Sharma,Room-114,0,2025-26
+TT001602,10,C,Wednesday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-112,0,2025-26
+TT001603,10,C,Wednesday,3,08:50,09:30,Science,TCH0039,Radhika Patil,Room-G05,0,2025-26
+TT001604,10,C,Wednesday,4,09:45,10:25,Science,TCH0009,Diya Shinde,Room-308,0,2025-26
+TT001605,10,C,Wednesday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-G10,0,2025-26
+TT001606,10,C,Wednesday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-G07,0,2025-26
+TT001607,10,C,Wednesday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-211,0,2025-26
+TT001608,10,C,Wednesday,8,12:40,13:20,Hindi,TCH0004,Rohan Sinha,Room-310,0,2025-26
+TT001609,10,C,Thursday,1,07:30,08:10,Physical Education,TCH0048,Kavya Sen,Room-307,0,2025-26
+TT001610,10,C,Thursday,2,08:10,08:50,Social Studies,TCH0006,Jiya Bhandari,Room-203,0,2025-26
+TT001611,10,C,Thursday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-G01,0,2025-26
+TT001612,10,C,Thursday,4,09:45,10:25,Hindi,TCH0063,Dhruv Mehta,Room-G09,0,2025-26
+TT001613,10,C,Thursday,5,10:25,11:05,English,TCH0070,Khushi Sinha,Room-109,0,2025-26
+TT001614,10,C,Thursday,6,11:05,11:45,Science,TCH0062,Sahil Gaikwad,Room-G05,0,2025-26
+TT001615,10,C,Thursday,7,12:00,12:40,Science,TCH0046,Ahana Mahajan,Room-G02,0,2025-26
+TT001616,10,C,Thursday,8,12:40,13:20,English,TCH0070,Khushi Sinha,Room-113,0,2025-26
+TT001617,10,C,Friday,1,07:30,08:10,Hindi,TCH0063,Dhruv Mehta,Room-102,0,2025-26
+TT001618,10,C,Friday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-110,0,2025-26
+TT001619,10,C,Friday,3,08:50,09:30,Social Studies,TCH0079,Ishaan Chauhan,Room-G12,0,2025-26
+TT001620,10,C,Friday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-101,0,2025-26
+TT001621,10,C,Friday,5,10:25,11:05,Science,TCH0066,Nikhil Shah,Room-212,0,2025-26
+TT001622,10,C,Friday,6,11:05,11:45,Physical Education,TCH0048,Kavya Sen,Room-209,0,2025-26
+TT001623,10,C,Friday,7,12:00,12:40,Science,TCH0031,Pari Deshmukh,Room-101,0,2025-26
+TT001624,10,C,Friday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-203,0,2025-26
+TT001625,10,C,Saturday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G14,1,2025-26
+TT001626,10,C,Saturday,2,08:10,08:50,English,TCH0070,Khushi Sinha,Room-G03,0,2025-26
+TT001627,10,C,Saturday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-301,0,2025-26
+TT001628,10,C,Saturday,4,09:45,10:25,Hindi,TCH0066,Nikhil Shah,Room-G07,0,2025-26
+TT001629,10,C,Saturday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-307,0,2025-26
+TT001630,10,C,Saturday,6,11:05,11:45,Science,TCH0062,Sahil Gaikwad,Room-314,0,2025-26
+TT001631,10,C,Saturday,7,12:00,12:40,Science,TCH0043,Divya Sharma,Room-105,0,2025-26
+TT001632,10,C,Saturday,8,12:40,13:20,Science,TCH0060,Trisha Pawar,Room-101,0,2025-26
+TT001633,10,D,Monday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G04,0,2025-26
+TT001634,10,D,Monday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-G02,0,2025-26
+TT001635,10,D,Monday,3,08:50,09:30,Science,TCH0080,Angel Mahajan,Room-209,0,2025-26
+TT001636,10,D,Monday,4,09:45,10:25,Social Studies,TCH0006,Jiya Bhandari,Room-309,0,2025-26
+TT001637,10,D,Monday,5,10:25,11:05,Hindi,TCH0015,Parth Chatterjee,Room-115,0,2025-26
+TT001638,10,D,Monday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-G05,0,2025-26
+TT001639,10,D,Monday,7,12:00,12:40,Physical Education,TCH0048,Kavya Sen,Room-208,0,2025-26
+TT001640,10,D,Monday,8,12:40,13:20,Physical Education,TCH0048,Kavya Sen,Room-111,0,2025-26
+TT001641,10,D,Tuesday,1,07:30,08:10,Hindi,TCH0015,Parth Chatterjee,Room-308,0,2025-26
+TT001642,10,D,Tuesday,2,08:10,08:50,Physical Education,TCH0077,Siya Ghosh,Room-202,0,2025-26
+TT001643,10,D,Tuesday,3,08:50,09:30,Social Studies,TCH0036,Kartik Bhat,Room-108,0,2025-26
+TT001644,10,D,Tuesday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-315,0,2025-26
+TT001645,10,D,Tuesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-G11,1,2025-26
+TT001646,10,D,Tuesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-212,1,2025-26
+TT001647,10,D,Tuesday,7,12:00,12:40,English,TCH0070,Khushi Sinha,Room-G09,0,2025-26
+TT001648,10,D,Tuesday,8,12:40,13:20,Social Studies,TCH0006,Jiya Bhandari,Room-211,0,2025-26
+TT001649,10,D,Wednesday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-214,0,2025-26
+TT001650,10,D,Wednesday,2,08:10,08:50,Science,TCH0048,Kavya Sen,Room-206,0,2025-26
+TT001651,10,D,Wednesday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-212,0,2025-26
+TT001652,10,D,Wednesday,4,09:45,10:25,Hindi,TCH0004,Rohan Sinha,Room-G10,0,2025-26
+TT001653,10,D,Wednesday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-202,0,2025-26
+TT001654,10,D,Wednesday,6,11:05,11:45,Science,TCH0036,Kartik Bhat,Room-201,0,2025-26
+TT001655,10,D,Wednesday,7,12:00,12:40,Science,TCH0012,Aditi Shinde,Room-G12,0,2025-26
+TT001656,10,D,Wednesday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-313,0,2025-26
+TT001657,10,D,Thursday,1,07:30,08:10,Hindi,TCH0004,Rohan Sinha,Room-G08,0,2025-26
+TT001658,10,D,Thursday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-105,0,2025-26
+TT001659,10,D,Thursday,3,08:50,09:30,Physical Education,TCH0048,Kavya Sen,Room-309,0,2025-26
+TT001660,10,D,Thursday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-201,0,2025-26
+TT001661,10,D,Thursday,5,10:25,11:05,Physical Education,TCH0077,Siya Ghosh,Room-203,0,2025-26
+TT001662,10,D,Thursday,6,11:05,11:45,Physical Education,TCH0077,Siya Ghosh,Room-G12,0,2025-26
+TT001663,10,D,Thursday,7,12:00,12:40,Computer Science,TCH0041,Vihaan Bhandari,Room-214,0,2025-26
+TT001664,10,D,Thursday,8,12:40,13:20,Science,TCH0061,Gauri Chauhan,Room-210,0,2025-26
+TT001665,10,D,Friday,1,07:30,08:10,Physical Education,TCH0077,Siya Ghosh,Room-214,0,2025-26
+TT001666,10,D,Friday,2,08:10,08:50,Computer Science,TCH0041,Vihaan Bhandari,Room-209,0,2025-26
+TT001667,10,D,Friday,3,08:50,09:30,Social Studies,TCH0056,Siya Mukherjee,Room-G06,0,2025-26
+TT001668,10,D,Friday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-207,1,2025-26
+TT001669,10,D,Friday,5,10:25,11:05,Social Studies,TCH0036,Kartik Bhat,Room-303,0,2025-26
+TT001670,10,D,Friday,6,11:05,11:45,Social Studies,TCH0056,Siya Mukherjee,Room-G09,0,2025-26
+TT001671,10,D,Friday,7,12:00,12:40,Science,TCH0048,Kavya Sen,Room-206,0,2025-26
+TT001672,10,D,Friday,8,12:40,13:20,Social Studies,TCH0006,Jiya Bhandari,Room-111,0,2025-26
+TT001673,10,D,Saturday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-313,1,2025-26
+TT001674,10,D,Saturday,2,08:10,08:50,Science,TCH0034,Rahul Pandey,Room-315,0,2025-26
+TT001675,10,D,Saturday,3,08:50,09:30,Hindi,TCH0015,Parth Chatterjee,Room-206,0,2025-26
+TT001676,10,D,Saturday,4,09:45,10:25,English,TCH0070,Khushi Sinha,Room-G06,0,2025-26
+TT001677,10,D,Saturday,5,10:25,11:05,Hindi,TCH0004,Rohan Sinha,Room-G08,0,2025-26
+TT001678,10,D,Saturday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-303,0,2025-26
+TT001679,10,D,Saturday,7,12:00,12:40,Computer Science,TCH0041,Vihaan Bhandari,Room-G05,0,2025-26
+TT001680,10,D,Saturday,8,12:40,13:20,Science,TCH0004,Rohan Sinha,Room-301,0,2025-26
+TT001681,11,A,Monday,1,07:30,08:10,Physics,TCH0051,Tanvi Shah,Room-G14,0,2025-26
+TT001682,11,A,Monday,2,08:10,08:50,Biology,TCH0061,Gauri Chauhan,Room-G07,0,2025-26
+TT001683,11,A,Monday,3,08:50,09:30,Mathematics,TCH0026,Siya Malhotra,Room-G04,0,2025-26
+TT001684,11,A,Monday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-G11,0,2025-26
+TT001685,11,A,Monday,5,10:25,11:05,Biology,TCH0060,Trisha Pawar,Room-G05,0,2025-26
+TT001686,11,A,Monday,6,11:05,11:45,Chemistry,TCH0030,Nandini Iyer,Room-313,0,2025-26
+TT001687,11,A,Monday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-104,0,2025-26
+TT001688,11,A,Monday,8,12:40,13:20,Biology,TCH0018,Rahul Mishra,Room-G13,0,2025-26
+TT001689,11,A,Tuesday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-G03,0,2025-26
+TT001690,11,A,Tuesday,2,08:10,08:50,Biology,TCH0060,Trisha Pawar,Room-G15,1,2025-26
+TT001691,11,A,Tuesday,3,08:50,09:30,Computer Science,TCH0057,Anika Bhosale,Room-214,1,2025-26
+TT001692,11,A,Tuesday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-307,0,2025-26
+TT001693,11,A,Tuesday,5,10:25,11:05,Biology,TCH0018,Rahul Mishra,Room-306,0,2025-26
+TT001694,11,A,Tuesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-211,1,2025-26
+TT001695,11,A,Tuesday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-313,0,2025-26
+TT001696,11,A,Tuesday,8,12:40,13:20,Biology,TCH0060,Trisha Pawar,Room-305,0,2025-26
+TT001697,11,A,Wednesday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-114,0,2025-26
+TT001698,11,A,Wednesday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-204,0,2025-26
+TT001699,11,A,Wednesday,3,08:50,09:30,Chemistry,TCH0045,Avni Sen,Room-311,0,2025-26
+TT001700,11,A,Wednesday,4,09:45,10:25,Chemistry,TCH0045,Avni Sen,Room-205,0,2025-26
+TT001701,11,A,Wednesday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-212,0,2025-26
+TT001702,11,A,Wednesday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-G13,0,2025-26
+TT001703,11,A,Wednesday,7,12:00,12:40,Biology,TCH0060,Trisha Pawar,Room-211,1,2025-26
+TT001704,11,A,Wednesday,8,12:40,13:20,Physics,TCH0005,Aanya Jadhav,Room-201,1,2025-26
+TT001705,11,A,Thursday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-103,0,2025-26
+TT001706,11,A,Thursday,2,08:10,08:50,Physics,TCH0005,Aanya Jadhav,Room-114,1,2025-26
+TT001707,11,A,Thursday,3,08:50,09:30,Biology,TCH0061,Gauri Chauhan,Room-309,0,2025-26
+TT001708,11,A,Thursday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-210,0,2025-26
+TT001709,11,A,Thursday,5,10:25,11:05,Physics,TCH0027,Rishi Sinha,Room-G08,0,2025-26
+TT001710,11,A,Thursday,6,11:05,11:45,Chemistry,TCH0045,Avni Sen,Room-G03,1,2025-26
+TT001711,11,A,Thursday,7,12:00,12:40,Chemistry,TCH0030,Nandini Iyer,Room-312,0,2025-26
+TT001712,11,A,Thursday,8,12:40,13:20,Physics,TCH0016,Sai Kapoor,Room-G07,0,2025-26
+TT001713,11,A,Friday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-212,0,2025-26
+TT001714,11,A,Friday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-207,0,2025-26
+TT001715,11,A,Friday,3,08:50,09:30,Chemistry,TCH0030,Nandini Iyer,Room-102,1,2025-26
+TT001716,11,A,Friday,4,09:45,10:25,Biology,TCH0042,Arnav Kale,Room-307,0,2025-26
+TT001717,11,A,Friday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-307,0,2025-26
+TT001718,11,A,Friday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-211,1,2025-26
+TT001719,11,A,Friday,7,12:00,12:40,Physics,TCH0051,Tanvi Shah,Room-115,0,2025-26
+TT001720,11,A,Friday,8,12:40,13:20,Biology,TCH0039,Radhika Patil,Room-311,0,2025-26
+TT001721,11,A,Saturday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-102,0,2025-26
+TT001722,11,A,Saturday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-102,0,2025-26
+TT001723,11,A,Saturday,3,08:50,09:30,Chemistry,TCH0030,Nandini Iyer,Room-110,0,2025-26
+TT001724,11,A,Saturday,4,09:45,10:25,Biology,TCH0061,Gauri Chauhan,Room-210,0,2025-26
+TT001725,11,A,Saturday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-G12,0,2025-26
+TT001726,11,A,Saturday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-G06,0,2025-26
+TT001727,11,A,Saturday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-G10,0,2025-26
+TT001728,11,A,Saturday,8,12:40,13:20,Biology,TCH0060,Trisha Pawar,Room-211,1,2025-26
+TT001729,11,B,Monday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-G02,0,2025-26
+TT001730,11,B,Monday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-306,0,2025-26
+TT001731,11,B,Monday,3,08:50,09:30,Biology,TCH0018,Rahul Mishra,Room-G07,1,2025-26
+TT001732,11,B,Monday,4,09:45,10:25,Biology,TCH0042,Arnav Kale,Room-211,0,2025-26
+TT001733,11,B,Monday,5,10:25,11:05,Chemistry,TCH0045,Avni Sen,Room-111,0,2025-26
+TT001734,11,B,Monday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-208,0,2025-26
+TT001735,11,B,Monday,7,12:00,12:40,Physics,TCH0051,Tanvi Shah,Room-109,0,2025-26
+TT001736,11,B,Monday,8,12:40,13:20,Physics,TCH0050,Aryan Singh,Room-G07,1,2025-26
+TT001737,11,B,Tuesday,1,07:30,08:10,Biology,TCH0039,Radhika Patil,Room-309,0,2025-26
+TT001738,11,B,Tuesday,2,08:10,08:50,Chemistry,TCH0030,Nandini Iyer,Room-211,0,2025-26
+TT001739,11,B,Tuesday,3,08:50,09:30,Biology,TCH0061,Gauri Chauhan,Room-106,0,2025-26
+TT001740,11,B,Tuesday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-G15,1,2025-26
+TT001741,11,B,Tuesday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-310,0,2025-26
+TT001742,11,B,Tuesday,6,11:05,11:45,Biology,TCH0060,Trisha Pawar,Room-102,0,2025-26
+TT001743,11,B,Tuesday,7,12:00,12:40,Biology,TCH0042,Arnav Kale,Room-209,0,2025-26
+TT001744,11,B,Tuesday,8,12:40,13:20,Computer Science,TCH0024,Kabir Das,Room-201,0,2025-26
+TT001745,11,B,Wednesday,1,07:30,08:10,Computer Science,TCH0057,Anika Bhosale,Room-310,0,2025-26
+TT001746,11,B,Wednesday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-307,0,2025-26
+TT001747,11,B,Wednesday,3,08:50,09:30,Physics,TCH0051,Tanvi Shah,Room-302,0,2025-26
+TT001748,11,B,Wednesday,4,09:45,10:25,Computer Science,TCH0057,Anika Bhosale,Room-G05,0,2025-26
+TT001749,11,B,Wednesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-305,0,2025-26
+TT001750,11,B,Wednesday,6,11:05,11:45,Mathematics,TCH0043,Divya Sharma,Room-102,0,2025-26
+TT001751,11,B,Wednesday,7,12:00,12:40,Biology,TCH0061,Gauri Chauhan,Room-212,1,2025-26
+TT001752,11,B,Wednesday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-210,1,2025-26
+TT001753,11,B,Thursday,1,07:30,08:10,Physics,TCH0049,Anvi Dubey,Room-G05,0,2025-26
+TT001754,11,B,Thursday,2,08:10,08:50,Chemistry,TCH0045,Avni Sen,Room-211,0,2025-26
+TT001755,11,B,Thursday,3,08:50,09:30,Biology,TCH0039,Radhika Patil,Room-G06,0,2025-26
+TT001756,11,B,Thursday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-313,0,2025-26
+TT001757,11,B,Thursday,5,10:25,11:05,Computer Science,TCH0057,Anika Bhosale,Room-G10,0,2025-26
+TT001758,11,B,Thursday,6,11:05,11:45,Mathematics,TCH0028,Gauri Deshpande,Room-309,0,2025-26
+TT001759,11,B,Thursday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-G15,0,2025-26
+TT001760,11,B,Thursday,8,12:40,13:20,Physics,TCH0005,Aanya Jadhav,Room-G07,0,2025-26
+TT001761,11,B,Friday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-307,0,2025-26
+TT001762,11,B,Friday,2,08:10,08:50,Biology,TCH0060,Trisha Pawar,Room-302,0,2025-26
+TT001763,11,B,Friday,3,08:50,09:30,Physics,TCH0005,Aanya Jadhav,Room-203,1,2025-26
+TT001764,11,B,Friday,4,09:45,10:25,Mathematics,TCH0043,Divya Sharma,Room-203,0,2025-26
+TT001765,11,B,Friday,5,10:25,11:05,Biology,TCH0042,Arnav Kale,Room-107,0,2025-26
+TT001766,11,B,Friday,6,11:05,11:45,Physics,TCH0027,Rishi Sinha,Room-204,1,2025-26
+TT001767,11,B,Friday,7,12:00,12:40,Biology,TCH0061,Gauri Chauhan,Room-115,1,2025-26
+TT001768,11,B,Friday,8,12:40,13:20,Biology,TCH0039,Radhika Patil,Room-204,0,2025-26
+TT001769,11,B,Saturday,1,07:30,08:10,Biology,TCH0039,Radhika Patil,Room-214,1,2025-26
+TT001770,11,B,Saturday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-112,0,2025-26
+TT001771,11,B,Saturday,3,08:50,09:30,Biology,TCH0042,Arnav Kale,Room-303,0,2025-26
+TT001772,11,B,Saturday,4,09:45,10:25,Chemistry,TCH0045,Avni Sen,Room-306,0,2025-26
+TT001773,11,B,Saturday,5,10:25,11:05,Mathematics,TCH0043,Divya Sharma,Room-G13,0,2025-26
+TT001774,11,B,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-215,1,2025-26
+TT001775,11,B,Saturday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-312,1,2025-26
+TT001776,11,B,Saturday,8,12:40,13:20,Mathematics,TCH0025,Darsh Patel,Room-112,0,2025-26
+TT001777,11,C,Monday,1,07:30,08:10,Business Studies,TCH0029,Myra Chavan,Room-201,0,2025-26
+TT001778,11,C,Monday,2,08:10,08:50,Accountancy,TCH0001,Laksh Chatterjee,Room-G12,0,2025-26
+TT001779,11,C,Monday,3,08:50,09:30,Business Studies,TCH0072,Aaradhya Sharma,Room-109,0,2025-26
+TT001780,11,C,Monday,4,09:45,10:25,Accountancy,TCH0023,Nikhil Ghosh,Room-204,0,2025-26
+TT001781,11,C,Monday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-312,0,2025-26
+TT001782,11,C,Monday,6,11:05,11:45,Informatics Practices,TCH0068,Nisha Mehta,Room-102,0,2025-26
+TT001783,11,C,Monday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-G10,0,2025-26
+TT001784,11,C,Monday,8,12:40,13:20,Mathematics,TCH0043,Divya Sharma,Room-G02,0,2025-26
+TT001785,11,C,Tuesday,1,07:30,08:10,Mathematics,TCH0025,Darsh Patel,Room-G02,0,2025-26
+TT001786,11,C,Tuesday,2,08:10,08:50,Informatics Practices,TCH0001,Laksh Chatterjee,Room-107,0,2025-26
+TT001787,11,C,Tuesday,3,08:50,09:30,Economics,TCH0003,Aarav Gupta,Room-213,0,2025-26
+TT001788,11,C,Tuesday,4,09:45,10:25,Informatics Practices,TCH0045,Avni Sen,Room-112,0,2025-26
+TT001789,11,C,Tuesday,5,10:25,11:05,Mathematics,TCH0043,Divya Sharma,Room-307,0,2025-26
+TT001790,11,C,Tuesday,6,11:05,11:45,Economics,TCH0012,Aditi Shinde,Room-302,0,2025-26
+TT001791,11,C,Tuesday,7,12:00,12:40,Business Studies,TCH0072,Aaradhya Sharma,Room-G07,0,2025-26
+TT001792,11,C,Tuesday,8,12:40,13:20,Business Studies,TCH0072,Aaradhya Sharma,Room-315,0,2025-26
+TT001793,11,C,Wednesday,1,07:30,08:10,Accountancy,TCH0046,Ahana Mahajan,Room-G01,0,2025-26
+TT001794,11,C,Wednesday,2,08:10,08:50,Accountancy,TCH0075,Isha Sen,Room-305,0,2025-26
+TT001795,11,C,Wednesday,3,08:50,09:30,Economics,TCH0031,Pari Deshmukh,Room-G08,0,2025-26
+TT001796,11,C,Wednesday,4,09:45,10:25,Informatics Practices,TCH0013,Avni Ghosh,Room-G08,0,2025-26
+TT001797,11,C,Wednesday,5,10:25,11:05,Mathematics,TCH0025,Darsh Patel,Room-215,0,2025-26
+TT001798,11,C,Wednesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-308,0,2025-26
+TT001799,11,C,Wednesday,7,12:00,12:40,Mathematics,TCH0028,Gauri Deshpande,Room-206,0,2025-26
+TT001800,11,C,Wednesday,8,12:40,13:20,Business Studies,TCH0032,Prisha Sen,Room-112,0,2025-26
+TT001801,11,C,Thursday,1,07:30,08:10,Accountancy,TCH0008,Dhruv Saxena,Room-112,0,2025-26
+TT001802,11,C,Thursday,2,08:10,08:50,Economics,TCH0012,Aditi Shinde,Room-115,0,2025-26
+TT001803,11,C,Thursday,3,08:50,09:30,Accountancy,TCH0075,Isha Sen,Room-307,0,2025-26
+TT001804,11,C,Thursday,4,09:45,10:25,Economics,TCH0003,Aarav Gupta,Room-112,0,2025-26
+TT001805,11,C,Thursday,5,10:25,11:05,Accountancy,TCH0052,Divya Verma,Room-115,0,2025-26
+TT001806,11,C,Thursday,6,11:05,11:45,Economics,TCH0031,Pari Deshmukh,Room-206,0,2025-26
+TT001807,11,C,Thursday,7,12:00,12:40,Informatics Practices,TCH0080,Angel Mahajan,Room-G01,0,2025-26
+TT001808,11,C,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-202,0,2025-26
+TT001809,11,C,Friday,1,07:30,08:10,Economics,TCH0031,Pari Deshmukh,Room-G09,0,2025-26
+TT001810,11,C,Friday,2,08:10,08:50,Accountancy,TCH0075,Isha Sen,Room-212,0,2025-26
+TT001811,11,C,Friday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-204,0,2025-26
+TT001812,11,C,Friday,4,09:45,10:25,Business Studies,TCH0010,Tanvi Saxena,Room-109,0,2025-26
+TT001813,11,C,Friday,5,10:25,11:05,Business Studies,TCH0065,Anika Saxena,Room-302,0,2025-26
+TT001814,11,C,Friday,6,11:05,11:45,Informatics Practices,TCH0063,Dhruv Mehta,Room-111,0,2025-26
+TT001815,11,C,Friday,7,12:00,12:40,Economics,TCH0031,Pari Deshmukh,Room-109,0,2025-26
+TT001816,11,C,Friday,8,12:40,13:20,Informatics Practices,TCH0033,Laksh Kapoor,Room-G02,0,2025-26
+TT001817,11,C,Saturday,1,07:30,08:10,Mathematics,TCH0028,Gauri Deshpande,Room-207,0,2025-26
+TT001818,11,C,Saturday,2,08:10,08:50,Business Studies,TCH0065,Anika Saxena,Room-302,0,2025-26
+TT001819,11,C,Saturday,3,08:50,09:30,Informatics Practices,TCH0045,Avni Sen,Room-305,0,2025-26
+TT001820,11,C,Saturday,4,09:45,10:25,Business Studies,TCH0065,Anika Saxena,Room-G07,0,2025-26
+TT001821,11,C,Saturday,5,10:25,11:05,Informatics Practices,TCH0054,Yash Deshmukh,Room-103,0,2025-26
+TT001822,11,C,Saturday,6,11:05,11:45,Accountancy,TCH0001,Laksh Chatterjee,Room-301,0,2025-26
+TT001823,11,C,Saturday,7,12:00,12:40,Economics,TCH0012,Aditi Shinde,Room-204,0,2025-26
+TT001824,11,C,Saturday,8,12:40,13:20,Informatics Practices,TCH0058,Kian Mehta,Room-G08,0,2025-26
+TT001825,11,D,Monday,1,07:30,08:10,Geography,TCH0053,Siya Sharma,Room-G05,0,2025-26
+TT001826,11,D,Monday,2,08:10,08:50,Economics,TCH0012,Aditi Shinde,Room-214,0,2025-26
+TT001827,11,D,Monday,3,08:50,09:30,Political Science,TCH0059,Sara Pawar,Room-G10,0,2025-26
+TT001828,11,D,Monday,4,09:45,10:25,Economics,TCH0012,Aditi Shinde,Room-314,0,2025-26
+TT001829,11,D,Monday,5,10:25,11:05,Geography,TCH0053,Siya Sharma,Room-315,0,2025-26
+TT001830,11,D,Monday,6,11:05,11:45,Geography,TCH0053,Siya Sharma,Room-214,0,2025-26
+TT001831,11,D,Monday,7,12:00,12:40,History,TCH0047,Kartik Jadhav,Room-101,0,2025-26
+TT001832,11,D,Monday,8,12:40,13:20,Political Science,TCH0014,Mira Gupta,Room-308,0,2025-26
+TT001833,11,D,Tuesday,1,07:30,08:10,Political Science,TCH0011,Pihu Ghosh,Room-112,0,2025-26
+TT001834,11,D,Tuesday,2,08:10,08:50,History,TCH0071,Ananya Iyer,Room-G11,0,2025-26
+TT001835,11,D,Tuesday,3,08:50,09:30,Geography,TCH0053,Siya Sharma,Room-G04,0,2025-26
+TT001836,11,D,Tuesday,4,09:45,10:25,Economics,TCH0031,Pari Deshmukh,Room-102,0,2025-26
+TT001837,11,D,Tuesday,5,10:25,11:05,Economics,TCH0031,Pari Deshmukh,Room-205,0,2025-26
+TT001838,11,D,Tuesday,6,11:05,11:45,Political Science,TCH0017,Lavanya Sinha,Room-109,0,2025-26
+TT001839,11,D,Tuesday,7,12:00,12:40,Geography,TCH0080,Angel Mahajan,Room-110,0,2025-26
+TT001840,11,D,Tuesday,8,12:40,13:20,Geography,TCH0053,Siya Sharma,Room-213,0,2025-26
+TT001841,11,D,Wednesday,1,07:30,08:10,Political Science,TCH0014,Mira Gupta,Room-213,0,2025-26
+TT001842,11,D,Wednesday,2,08:10,08:50,Geography,TCH0053,Siya Sharma,Room-313,0,2025-26
+TT001843,11,D,Wednesday,3,08:50,09:30,Political Science,TCH0062,Sahil Gaikwad,Room-G14,0,2025-26
+TT001844,11,D,Wednesday,4,09:45,10:25,Economics,TCH0031,Pari Deshmukh,Room-305,0,2025-26
+TT001845,11,D,Wednesday,5,10:25,11:05,Political Science,TCH0014,Mira Gupta,Room-107,0,2025-26
+TT001846,11,D,Wednesday,6,11:05,11:45,Sociology,TCH0009,Diya Shinde,Room-106,0,2025-26
+TT001847,11,D,Wednesday,7,12:00,12:40,Geography,TCH0053,Siya Sharma,Room-204,0,2025-26
+TT001848,11,D,Wednesday,8,12:40,13:20,History,TCH0069,Isha Bhat,Room-203,0,2025-26
+TT001849,11,D,Thursday,1,07:30,08:10,History,TCH0076,Rishi Saxena,Room-102,0,2025-26
+TT001850,11,D,Thursday,2,08:10,08:50,Political Science,TCH0059,Sara Pawar,Room-114,0,2025-26
+TT001851,11,D,Thursday,3,08:50,09:30,Political Science,TCH0011,Pihu Ghosh,Room-G15,0,2025-26
+TT001852,11,D,Thursday,4,09:45,10:25,Sociology,TCH0034,Rahul Pandey,Room-209,0,2025-26
+TT001853,11,D,Thursday,5,10:25,11:05,History,TCH0067,Saanvi Ghosh,Room-308,0,2025-26
+TT001854,11,D,Thursday,6,11:05,11:45,Geography,TCH0080,Angel Mahajan,Room-G07,0,2025-26
+TT001855,11,D,Thursday,7,12:00,12:40,Sociology,TCH0055,Nikhil Ghosh,Room-202,0,2025-26
+TT001856,11,D,Thursday,8,12:40,13:20,Sociology,TCH0049,Anvi Dubey,Room-208,0,2025-26
+TT001857,11,D,Friday,1,07:30,08:10,Economics,TCH0012,Aditi Shinde,Room-103,0,2025-26
+TT001858,11,D,Friday,2,08:10,08:50,Sociology,TCH0030,Nandini Iyer,Room-G04,0,2025-26
+TT001859,11,D,Friday,3,08:50,09:30,Sociology,TCH0015,Parth Chatterjee,Room-307,0,2025-26
+TT001860,11,D,Friday,4,09:45,10:25,Sociology,TCH0024,Kabir Das,Room-104,0,2025-26
+TT001861,11,D,Friday,5,10:25,11:05,Sociology,TCH0008,Dhruv Saxena,Room-G13,0,2025-26
+TT001862,11,D,Friday,6,11:05,11:45,Geography,TCH0080,Angel Mahajan,Room-302,0,2025-26
+TT001863,11,D,Friday,7,12:00,12:40,Geography,TCH0053,Siya Sharma,Room-102,0,2025-26
+TT001864,11,D,Friday,8,12:40,13:20,Economics,TCH0003,Aarav Gupta,Room-G04,0,2025-26
+TT001865,11,D,Saturday,1,07:30,08:10,History,TCH0069,Isha Bhat,Room-309,0,2025-26
+TT001866,11,D,Saturday,2,08:10,08:50,History,TCH0055,Nikhil Ghosh,Room-102,0,2025-26
+TT001867,11,D,Saturday,3,08:50,09:30,Political Science,TCH0014,Mira Gupta,Room-G15,0,2025-26
+TT001868,11,D,Saturday,4,09:45,10:25,History,TCH0067,Saanvi Ghosh,Room-311,0,2025-26
+TT001869,11,D,Saturday,5,10:25,11:05,Economics,TCH0012,Aditi Shinde,Room-G04,0,2025-26
+TT001870,11,D,Saturday,6,11:05,11:45,Sociology,TCH0071,Ananya Iyer,Room-214,0,2025-26
+TT001871,11,D,Saturday,7,12:00,12:40,History,TCH0067,Saanvi Ghosh,Room-212,0,2025-26
+TT001872,11,D,Saturday,8,12:40,13:20,Geography,TCH0053,Siya Sharma,Room-113,0,2025-26
+TT001873,12,A,Monday,1,07:30,08:10,Physics,TCH0049,Anvi Dubey,Room-312,0,2025-26
+TT001874,12,A,Monday,2,08:10,08:50,Mathematics,TCH0043,Divya Sharma,Room-G15,0,2025-26
+TT001875,12,A,Monday,3,08:50,09:30,Biology,TCH0060,Trisha Pawar,Room-115,0,2025-26
+TT001876,12,A,Monday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-212,0,2025-26
+TT001877,12,A,Monday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-208,1,2025-26
+TT001878,12,A,Monday,6,11:05,11:45,Chemistry,TCH0030,Nandini Iyer,Room-201,0,2025-26
+TT001879,12,A,Monday,7,12:00,12:40,Computer Science,TCH0041,Vihaan Bhandari,Room-114,1,2025-26
+TT001880,12,A,Monday,8,12:40,13:20,Computer Science,TCH0041,Vihaan Bhandari,Room-310,0,2025-26
+TT001881,12,A,Tuesday,1,07:30,08:10,Biology,TCH0060,Trisha Pawar,Room-311,0,2025-26
+TT001882,12,A,Tuesday,2,08:10,08:50,Biology,TCH0018,Rahul Mishra,Room-307,1,2025-26
+TT001883,12,A,Tuesday,3,08:50,09:30,Biology,TCH0042,Arnav Kale,Room-102,0,2025-26
+TT001884,12,A,Tuesday,4,09:45,10:25,Mathematics,TCH0026,Siya Malhotra,Room-307,0,2025-26
+TT001885,12,A,Tuesday,5,10:25,11:05,Chemistry,TCH0030,Nandini Iyer,Room-202,1,2025-26
+TT001886,12,A,Tuesday,6,11:05,11:45,Physics,TCH0027,Rishi Sinha,Room-112,0,2025-26
+TT001887,12,A,Tuesday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-204,1,2025-26
+TT001888,12,A,Tuesday,8,12:40,13:20,Chemistry,TCH0045,Avni Sen,Room-103,0,2025-26
+TT001889,12,A,Wednesday,1,07:30,08:10,Chemistry,TCH0045,Avni Sen,Room-303,1,2025-26
+TT001890,12,A,Wednesday,2,08:10,08:50,Biology,TCH0018,Rahul Mishra,Room-311,0,2025-26
+TT001891,12,A,Wednesday,3,08:50,09:30,Chemistry,TCH0045,Avni Sen,Room-207,0,2025-26
+TT001892,12,A,Wednesday,4,09:45,10:25,Physics,TCH0049,Anvi Dubey,Room-215,1,2025-26
+TT001893,12,A,Wednesday,5,10:25,11:05,Computer Science,TCH0041,Vihaan Bhandari,Room-G10,0,2025-26
+TT001894,12,A,Wednesday,6,11:05,11:45,Chemistry,TCH0045,Avni Sen,Room-213,0,2025-26
+TT001895,12,A,Wednesday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-G10,0,2025-26
+TT001896,12,A,Wednesday,8,12:40,13:20,Physics,TCH0027,Rishi Sinha,Room-112,1,2025-26
+TT001897,12,A,Thursday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G03,1,2025-26
+TT001898,12,A,Thursday,2,08:10,08:50,Computer Science,TCH0024,Kabir Das,Room-107,0,2025-26
+TT001899,12,A,Thursday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-315,0,2025-26
+TT001900,12,A,Thursday,4,09:45,10:25,Biology,TCH0018,Rahul Mishra,Room-G11,1,2025-26
+TT001901,12,A,Thursday,5,10:25,11:05,Chemistry,TCH0030,Nandini Iyer,Room-207,0,2025-26
+TT001902,12,A,Thursday,6,11:05,11:45,Physics,TCH0051,Tanvi Shah,Room-307,0,2025-26
+TT001903,12,A,Thursday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-G08,0,2025-26
+TT001904,12,A,Thursday,8,12:40,13:20,Physics,TCH0049,Anvi Dubey,Room-309,1,2025-26
+TT001905,12,A,Friday,1,07:30,08:10,Computer Science,TCH0024,Kabir Das,Room-G02,0,2025-26
+TT001906,12,A,Friday,2,08:10,08:50,Biology,TCH0060,Trisha Pawar,Room-107,0,2025-26
+TT001907,12,A,Friday,3,08:50,09:30,Chemistry,TCH0045,Avni Sen,Room-G07,1,2025-26
+TT001908,12,A,Friday,4,09:45,10:25,Biology,TCH0060,Trisha Pawar,Room-208,0,2025-26
+TT001909,12,A,Friday,5,10:25,11:05,Biology,TCH0039,Radhika Patil,Room-209,1,2025-26
+TT001910,12,A,Friday,6,11:05,11:45,Chemistry,TCH0030,Nandini Iyer,Room-315,1,2025-26
+TT001911,12,A,Friday,7,12:00,12:40,Biology,TCH0018,Rahul Mishra,Room-214,0,2025-26
+TT001912,12,A,Friday,8,12:40,13:20,Mathematics,TCH0043,Divya Sharma,Room-109,0,2025-26
+TT001913,12,A,Saturday,1,07:30,08:10,Biology,TCH0042,Arnav Kale,Room-G09,0,2025-26
+TT001914,12,A,Saturday,2,08:10,08:50,Physics,TCH0005,Aanya Jadhav,Room-114,1,2025-26
+TT001915,12,A,Saturday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-210,0,2025-26
+TT001916,12,A,Saturday,4,09:45,10:25,Chemistry,TCH0045,Avni Sen,Room-204,0,2025-26
+TT001917,12,A,Saturday,5,10:25,11:05,Physics,TCH0027,Rishi Sinha,Room-302,1,2025-26
+TT001918,12,A,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-112,1,2025-26
+TT001919,12,A,Saturday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-214,0,2025-26
+TT001920,12,A,Saturday,8,12:40,13:20,Chemistry,TCH0045,Avni Sen,Room-G09,0,2025-26
+TT001921,12,B,Monday,1,07:30,08:10,Accountancy,TCH0052,Divya Verma,Room-302,0,2025-26
+TT001922,12,B,Monday,2,08:10,08:50,Business Studies,TCH0072,Aaradhya Sharma,Room-105,0,2025-26
+TT001923,12,B,Monday,3,08:50,09:30,Economics,TCH0031,Pari Deshmukh,Room-G07,0,2025-26
+TT001924,12,B,Monday,4,09:45,10:25,Economics,TCH0012,Aditi Shinde,Room-309,0,2025-26
+TT001925,12,B,Monday,5,10:25,11:05,Mathematics,TCH0043,Divya Sharma,Room-G01,0,2025-26
+TT001926,12,B,Monday,6,11:05,11:45,Informatics Practices,TCH0067,Saanvi Ghosh,Room-G10,0,2025-26
+TT001927,12,B,Monday,7,12:00,12:40,Informatics Practices,TCH0015,Parth Chatterjee,Room-212,0,2025-26
+TT001928,12,B,Monday,8,12:40,13:20,Business Studies,TCH0072,Aaradhya Sharma,Room-106,0,2025-26
+TT001929,12,B,Tuesday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-306,0,2025-26
+TT001930,12,B,Tuesday,2,08:10,08:50,Mathematics,TCH0025,Darsh Patel,Room-G08,0,2025-26
+TT001931,12,B,Tuesday,3,08:50,09:30,Mathematics,TCH0025,Darsh Patel,Room-204,0,2025-26
+TT001932,12,B,Tuesday,4,09:45,10:25,Accountancy,TCH0046,Ahana Mahajan,Room-212,0,2025-26
+TT001933,12,B,Tuesday,5,10:25,11:05,Business Studies,TCH0029,Myra Chavan,Room-303,0,2025-26
+TT001934,12,B,Tuesday,6,11:05,11:45,Business Studies,TCH0010,Tanvi Saxena,Room-G09,0,2025-26
+TT001935,12,B,Tuesday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-G05,0,2025-26
+TT001936,12,B,Tuesday,8,12:40,13:20,Economics,TCH0012,Aditi Shinde,Room-104,0,2025-26
+TT001937,12,B,Wednesday,1,07:30,08:10,Economics,TCH0003,Aarav Gupta,Room-207,0,2025-26
+TT001938,12,B,Wednesday,2,08:10,08:50,Mathematics,TCH0026,Siya Malhotra,Room-114,0,2025-26
+TT001939,12,B,Wednesday,3,08:50,09:30,Economics,TCH0031,Pari Deshmukh,Room-210,0,2025-26
+TT001940,12,B,Wednesday,4,09:45,10:25,Informatics Practices,TCH0039,Radhika Patil,Room-G13,0,2025-26
+TT001941,12,B,Wednesday,5,10:25,11:05,Business Studies,TCH0065,Anika Saxena,Room-G13,0,2025-26
+TT001942,12,B,Wednesday,6,11:05,11:45,Informatics Practices,TCH0057,Anika Bhosale,Room-G10,0,2025-26
+TT001943,12,B,Wednesday,7,12:00,12:40,Business Studies,TCH0065,Anika Saxena,Room-103,0,2025-26
+TT001944,12,B,Wednesday,8,12:40,13:20,Economics,TCH0012,Aditi Shinde,Room-312,0,2025-26
+TT001945,12,B,Thursday,1,07:30,08:10,Business Studies,TCH0032,Prisha Sen,Room-313,0,2025-26
+TT001946,12,B,Thursday,2,08:10,08:50,Business Studies,TCH0029,Myra Chavan,Room-107,0,2025-26
+TT001947,12,B,Thursday,3,08:50,09:30,Accountancy,TCH0078,Palak Jain,Room-G06,0,2025-26
+TT001948,12,B,Thursday,4,09:45,10:25,Informatics Practices,TCH0063,Dhruv Mehta,Room-304,0,2025-26
+TT001949,12,B,Thursday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-111,0,2025-26
+TT001950,12,B,Thursday,6,11:05,11:45,Informatics Practices,TCH0049,Anvi Dubey,Room-203,0,2025-26
+TT001951,12,B,Thursday,7,12:00,12:40,Economics,TCH0012,Aditi Shinde,Room-G08,0,2025-26
+TT001952,12,B,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-G13,0,2025-26
+TT001953,12,B,Friday,1,07:30,08:10,Economics,TCH0031,Pari Deshmukh,Room-313,0,2025-26
+TT001954,12,B,Friday,2,08:10,08:50,Business Studies,TCH0065,Anika Saxena,Room-313,0,2025-26
+TT001955,12,B,Friday,3,08:50,09:30,Economics,TCH0031,Pari Deshmukh,Room-312,0,2025-26
+TT001956,12,B,Friday,4,09:45,10:25,Mathematics,TCH0025,Darsh Patel,Room-307,0,2025-26
+TT001957,12,B,Friday,5,10:25,11:05,Business Studies,TCH0032,Prisha Sen,Room-312,0,2025-26
+TT001958,12,B,Friday,6,11:05,11:45,Informatics Practices,TCH0011,Pihu Ghosh,Room-G12,0,2025-26
+TT001959,12,B,Friday,7,12:00,12:40,Informatics Practices,TCH0066,Nikhil Shah,Room-301,0,2025-26
+TT001960,12,B,Friday,8,12:40,13:20,Informatics Practices,TCH0019,Aadhya Kulkarni,Room-205,0,2025-26
+TT001961,12,B,Saturday,1,07:30,08:10,Economics,TCH0031,Pari Deshmukh,Room-G15,0,2025-26
+TT001962,12,B,Saturday,2,08:10,08:50,Mathematics,TCH0028,Gauri Deshpande,Room-G07,0,2025-26
+TT001963,12,B,Saturday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-308,0,2025-26
+TT001964,12,B,Saturday,4,09:45,10:25,Mathematics,TCH0028,Gauri Deshpande,Room-308,0,2025-26
+TT001965,12,B,Saturday,5,10:25,11:05,Economics,TCH0031,Pari Deshmukh,Room-G10,0,2025-26
+TT001966,12,B,Saturday,6,11:05,11:45,Mathematics,TCH0028,Gauri Deshpande,Room-214,0,2025-26
+TT001967,12,B,Saturday,7,12:00,12:40,Business Studies,TCH0072,Aaradhya Sharma,Room-215,0,2025-26
+TT001968,12,B,Saturday,8,12:40,13:20,Accountancy,TCH0054,Yash Deshmukh,Room-211,0,2025-26
+TT001969,12,C,Monday,1,07:30,08:10,Informatics Practices,TCH0002,Radhika Mehta,Room-212,0,2025-26
+TT001970,12,C,Monday,2,08:10,08:50,Business Studies,TCH0029,Myra Chavan,Room-113,0,2025-26
+TT001971,12,C,Monday,3,08:50,09:30,Accountancy,TCH0052,Divya Verma,Room-102,0,2025-26
+TT001972,12,C,Monday,4,09:45,10:25,Accountancy,TCH0001,Laksh Chatterjee,Room-309,0,2025-26
+TT001973,12,C,Monday,5,10:25,11:05,Informatics Practices,TCH0007,Rudra Thakur,Room-G03,0,2025-26
+TT001974,12,C,Monday,6,11:05,11:45,Economics,TCH0031,Pari Deshmukh,Room-207,0,2025-26
+TT001975,12,C,Monday,7,12:00,12:40,Business Studies,TCH0072,Aaradhya Sharma,Room-106,0,2025-26
+TT001976,12,C,Monday,8,12:40,13:20,Business Studies,TCH0032,Prisha Sen,Room-301,0,2025-26
+TT001977,12,C,Tuesday,1,07:30,08:10,Mathematics,TCH0043,Divya Sharma,Room-G14,0,2025-26
+TT001978,12,C,Tuesday,2,08:10,08:50,Accountancy,TCH0046,Ahana Mahajan,Room-110,0,2025-26
+TT001979,12,C,Tuesday,3,08:50,09:30,Mathematics,TCH0043,Divya Sharma,Room-206,0,2025-26
+TT001980,12,C,Tuesday,4,09:45,10:25,Informatics Practices,TCH0079,Ishaan Chauhan,Room-115,0,2025-26
+TT001981,12,C,Tuesday,5,10:25,11:05,Accountancy,TCH0052,Divya Verma,Room-306,0,2025-26
+TT001982,12,C,Tuesday,6,11:05,11:45,Business Studies,TCH0010,Tanvi Saxena,Room-313,0,2025-26
+TT001983,12,C,Tuesday,7,12:00,12:40,Accountancy,TCH0023,Nikhil Ghosh,Room-302,0,2025-26
+TT001984,12,C,Tuesday,8,12:40,13:20,Economics,TCH0031,Pari Deshmukh,Room-215,0,2025-26
+TT001985,12,C,Wednesday,1,07:30,08:10,Business Studies,TCH0029,Myra Chavan,Room-114,0,2025-26
+TT001986,12,C,Wednesday,2,08:10,08:50,Economics,TCH0012,Aditi Shinde,Room-312,0,2025-26
+TT001987,12,C,Wednesday,3,08:50,09:30,Business Studies,TCH0010,Tanvi Saxena,Room-G14,0,2025-26
+TT001988,12,C,Wednesday,4,09:45,10:25,Accountancy,TCH0008,Dhruv Saxena,Room-208,0,2025-26
+TT001989,12,C,Wednesday,5,10:25,11:05,Accountancy,TCH0052,Divya Verma,Room-112,0,2025-26
+TT001990,12,C,Wednesday,6,11:05,11:45,Business Studies,TCH0065,Anika Saxena,Room-203,0,2025-26
+TT001991,12,C,Wednesday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-G11,0,2025-26
+TT001992,12,C,Wednesday,8,12:40,13:20,Economics,TCH0003,Aarav Gupta,Room-G12,0,2025-26
+TT001993,12,C,Thursday,1,07:30,08:10,Economics,TCH0012,Aditi Shinde,Room-105,0,2025-26
+TT001994,12,C,Thursday,2,08:10,08:50,Business Studies,TCH0072,Aaradhya Sharma,Room-113,0,2025-26
+TT001995,12,C,Thursday,3,08:50,09:30,Economics,TCH0012,Aditi Shinde,Room-102,0,2025-26
+TT001996,12,C,Thursday,4,09:45,10:25,Business Studies,TCH0065,Anika Saxena,Room-202,0,2025-26
+TT001997,12,C,Thursday,5,10:25,11:05,Accountancy,TCH0046,Ahana Mahajan,Room-105,0,2025-26
+TT001998,12,C,Thursday,6,11:05,11:45,Economics,TCH0031,Pari Deshmukh,Room-307,0,2025-26
+TT001999,12,C,Thursday,7,12:00,12:40,Informatics Practices,TCH0029,Myra Chavan,Room-104,0,2025-26
+TT002000,12,C,Thursday,8,12:40,13:20,Business Studies,TCH0010,Tanvi Saxena,Room-204,0,2025-26
+TT002001,12,C,Friday,1,07:30,08:10,Mathematics,TCH0026,Siya Malhotra,Room-310,0,2025-26
+TT002002,12,C,Friday,2,08:10,08:50,Business Studies,TCH0072,Aaradhya Sharma,Room-306,0,2025-26
+TT002003,12,C,Friday,3,08:50,09:30,Business Studies,TCH0072,Aaradhya Sharma,Room-112,0,2025-26
+TT002004,12,C,Friday,4,09:45,10:25,Economics,TCH0031,Pari Deshmukh,Room-308,0,2025-26
+TT002005,12,C,Friday,5,10:25,11:05,Accountancy,TCH0075,Isha Sen,Room-204,0,2025-26
+TT002006,12,C,Friday,6,11:05,11:45,Accountancy,TCH0078,Palak Jain,Room-210,0,2025-26
+TT002007,12,C,Friday,7,12:00,12:40,Mathematics,TCH0025,Darsh Patel,Room-G13,0,2025-26
+TT002008,12,C,Friday,8,12:40,13:20,Economics,TCH0012,Aditi Shinde,Room-312,0,2025-26
+TT002009,12,C,Saturday,1,07:30,08:10,Informatics Practices,TCH0040,Siddharth Deshpande,Room-215,0,2025-26
+TT002010,12,C,Saturday,2,08:10,08:50,Accountancy,TCH0054,Yash Deshmukh,Room-114,0,2025-26
+TT002011,12,C,Saturday,3,08:50,09:30,Informatics Practices,TCH0002,Radhika Mehta,Room-202,0,2025-26
+TT002012,12,C,Saturday,4,09:45,10:25,Informatics Practices,TCH0030,Nandini Iyer,Room-101,0,2025-26
+TT002013,12,C,Saturday,5,10:25,11:05,Mathematics,TCH0028,Gauri Deshpande,Room-107,0,2025-26
+TT002014,12,C,Saturday,6,11:05,11:45,Accountancy,TCH0013,Avni Ghosh,Room-202,0,2025-26
+TT002015,12,C,Saturday,7,12:00,12:40,Mathematics,TCH0043,Divya Sharma,Room-G06,0,2025-26
+TT002016,12,C,Saturday,8,12:40,13:20,Economics,TCH0012,Aditi Shinde,Room-302,0,2025-26
+TT002017,12,D,Monday,1,07:30,08:10,Physics,TCH0051,Tanvi Shah,Room-301,0,2025-26
+TT002018,12,D,Monday,2,08:10,08:50,Computer Science,TCH0057,Anika Bhosale,Room-307,0,2025-26
+TT002019,12,D,Monday,3,08:50,09:30,Biology,TCH0061,Gauri Chauhan,Room-G05,1,2025-26
+TT002020,12,D,Monday,4,09:45,10:25,Chemistry,TCH0045,Avni Sen,Room-303,1,2025-26
+TT002021,12,D,Monday,5,10:25,11:05,Biology,TCH0039,Radhika Patil,Room-113,1,2025-26
+TT002022,12,D,Monday,6,11:05,11:45,Computer Science,TCH0024,Kabir Das,Room-204,0,2025-26
+TT002023,12,D,Monday,7,12:00,12:40,Chemistry,TCH0045,Avni Sen,Room-G06,1,2025-26
+TT002024,12,D,Monday,8,12:40,13:20,Computer Science,TCH0057,Anika Bhosale,Room-109,0,2025-26
+TT002025,12,D,Tuesday,1,07:30,08:10,Physics,TCH0027,Rishi Sinha,Room-214,0,2025-26
+TT002026,12,D,Tuesday,2,08:10,08:50,Biology,TCH0042,Arnav Kale,Room-201,0,2025-26
+TT002027,12,D,Tuesday,3,08:50,09:30,Mathematics,TCH0028,Gauri Deshpande,Room-309,0,2025-26
+TT002028,12,D,Tuesday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-212,0,2025-26
+TT002029,12,D,Tuesday,5,10:25,11:05,Computer Science,TCH0024,Kabir Das,Room-101,0,2025-26
+TT002030,12,D,Tuesday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-102,0,2025-26
+TT002031,12,D,Tuesday,7,12:00,12:40,Computer Science,TCH0024,Kabir Das,Room-107,1,2025-26
+TT002032,12,D,Tuesday,8,12:40,13:20,Biology,TCH0018,Rahul Mishra,Room-203,0,2025-26
+TT002033,12,D,Wednesday,1,07:30,08:10,Computer Science,TCH0041,Vihaan Bhandari,Room-313,1,2025-26
+TT002034,12,D,Wednesday,2,08:10,08:50,Biology,TCH0060,Trisha Pawar,Room-G10,0,2025-26
+TT002035,12,D,Wednesday,3,08:50,09:30,Physics,TCH0050,Aryan Singh,Room-113,0,2025-26
+TT002036,12,D,Wednesday,4,09:45,10:25,Computer Science,TCH0041,Vihaan Bhandari,Room-111,0,2025-26
+TT002037,12,D,Wednesday,5,10:25,11:05,Physics,TCH0027,Rishi Sinha,Room-307,0,2025-26
+TT002038,12,D,Wednesday,6,11:05,11:45,Mathematics,TCH0026,Siya Malhotra,Room-201,0,2025-26
+TT002039,12,D,Wednesday,7,12:00,12:40,Biology,TCH0060,Trisha Pawar,Room-201,1,2025-26
+TT002040,12,D,Wednesday,8,12:40,13:20,Chemistry,TCH0030,Nandini Iyer,Room-103,0,2025-26
+TT002041,12,D,Thursday,1,07:30,08:10,Physics,TCH0050,Aryan Singh,Room-113,0,2025-26
+TT002042,12,D,Thursday,2,08:10,08:50,Chemistry,TCH0030,Nandini Iyer,Room-G02,0,2025-26
+TT002043,12,D,Thursday,3,08:50,09:30,Physics,TCH0050,Aryan Singh,Room-314,1,2025-26
+TT002044,12,D,Thursday,4,09:45,10:25,Chemistry,TCH0030,Nandini Iyer,Room-214,1,2025-26
+TT002045,12,D,Thursday,5,10:25,11:05,Biology,TCH0039,Radhika Patil,Room-306,0,2025-26
+TT002046,12,D,Thursday,6,11:05,11:45,Mathematics,TCH0025,Darsh Patel,Room-302,0,2025-26
+TT002047,12,D,Thursday,7,12:00,12:40,Physics,TCH0005,Aanya Jadhav,Room-211,0,2025-26
+TT002048,12,D,Thursday,8,12:40,13:20,Mathematics,TCH0028,Gauri Deshpande,Room-302,0,2025-26
+TT002049,12,D,Friday,1,07:30,08:10,Chemistry,TCH0045,Avni Sen,Room-214,1,2025-26
+TT002050,12,D,Friday,2,08:10,08:50,Physics,TCH0027,Rishi Sinha,Room-302,1,2025-26
+TT002051,12,D,Friday,3,08:50,09:30,Chemistry,TCH0030,Nandini Iyer,Room-113,0,2025-26
+TT002052,12,D,Friday,4,09:45,10:25,Physics,TCH0016,Sai Kapoor,Room-G13,1,2025-26
+TT002053,12,D,Friday,5,10:25,11:05,Mathematics,TCH0026,Siya Malhotra,Room-G01,0,2025-26
+TT002054,12,D,Friday,6,11:05,11:45,Mathematics,TCH0028,Gauri Deshpande,Room-112,0,2025-26
+TT002055,12,D,Friday,7,12:00,12:40,Physics,TCH0050,Aryan Singh,Room-301,0,2025-26
+TT002056,12,D,Friday,8,12:40,13:20,Chemistry,TCH0045,Avni Sen,Room-G01,1,2025-26
+TT002057,12,D,Saturday,1,07:30,08:10,Chemistry,TCH0045,Avni Sen,Room-213,0,2025-26
+TT002058,12,D,Saturday,2,08:10,08:50,Biology,TCH0039,Radhika Patil,Room-G09,0,2025-26
+TT002059,12,D,Saturday,3,08:50,09:30,Computer Science,TCH0024,Kabir Das,Room-312,0,2025-26
+TT002060,12,D,Saturday,4,09:45,10:25,Physics,TCH0016,Sai Kapoor,Room-203,0,2025-26
+TT002061,12,D,Saturday,5,10:25,11:05,Physics,TCH0016,Sai Kapoor,Room-212,0,2025-26
+TT002062,12,D,Saturday,6,11:05,11:45,Computer Science,TCH0057,Anika Bhosale,Room-115,0,2025-26
+TT002063,12,D,Saturday,7,12:00,12:40,Computer Science,TCH0057,Anika Bhosale,Room-211,0,2025-26
+TT002064,12,D,Saturday,8,12:40,13:20,Physics,TCH0051,Tanvi Shah,Room-210,0,2025-26

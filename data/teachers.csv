@@ -1,0 +1,81 @@
+teacher_id,employee_id,first_name,last_name,gender,dob,phone,email,subject_primary,subject_secondary,qualification,experience_years,joining_date,designation,assigned_classes,class_teacher_of,is_active
+TCH0001,EMP/2009/3879,Laksh,Chatterjee,Male,1974-04-24,+91-8833702186,laksh.chatterjee393@school.edu.in,Accountancy,Chemistry,Ph.D.,16,2009-06-01,TGT,"6,1,10",,1
+TCH0002,EMP/2020/1135,Radhika,Mehta,Female,1972-10-14,+91-7791208321,radhika.mehta895@school.edu.in,Art,Political Science,M.Com.,5,2020-06-07,TGT,"8,7",5-D,1
+TCH0003,EMP/2008/3234,Aarav,Gupta,Male,1982-09-15,+91-9546879231,aarav.gupta292@school.edu.in,Economics,Political Science,B.A. B.Ed,17,2008-08-14,TGT,"8,1,7,2",,1
+TCH0004,EMP/2002/5273,Rohan,Sinha,Male,1984-08-03,+91-9713532190,rohan.sinha987@school.edu.in,Hindi,Social Studies,M.Com.,23,2002-07-04,TGT,"6,7,11,12,1",,1
+TCH0005,EMP/2012/9051,Aanya,Jadhav,Female,1986-05-09,+91-8734253410,aanya.jadhav210@school.edu.in,Physics,Economics,M.Sc.,13,2012-06-20,HOD,"10,9,6,1,5",1-C,1
+TCH0006,EMP/2015/6622,Jiya,Bhandari,Female,1974-01-05,+91-7845472873,jiya.bhandari923@school.edu.in,Social Studies,Biology,B.A. B.Ed,10,2015-04-16,HOD,"6,8,2",1-B,1
+TCH0007,EMP/2013/3825,Rudra,Thakur,Male,1989-07-28,+91-7850380007,rudra.thakur527@school.edu.in,Art,Mathematics,B.A. B.Ed,12,2013-05-17,PRT,"12,7,9",,1
+TCH0008,EMP/2007/1310,Dhruv,Saxena,Male,1988-02-01,+91-7720665796,dhruv.saxena871@school.edu.in,Accountancy,Chemistry,M.Tech,18,2007-08-19,TGT,"2,10,4,1",,1
+TCH0009,EMP/2014/6738,Diya,Shinde,Female,1981-07-25,+91-9016546154,diya.shinde913@school.edu.in,Art,Computer Science,B.A. B.Ed,11,2014-06-14,PGT,"12,7,4",11-C,1
+TCH0010,EMP/2023/5007,Tanvi,Saxena,Female,1972-02-18,+91-9730205031,tanvi.saxena201@school.edu.in,Business Studies,Social Studies,Ph.D.,2,2023-07-22,TGT,"12,1,8,4,2",,1
+TCH0011,EMP/2005/7774,Pihu,Ghosh,Female,1993-03-13,+91-9562668823,pihu.ghosh456@school.edu.in,Political Science,Economics,B.Ed,20,2005-08-20,HOD,"8,5,12,6,11",,1
+TCH0012,EMP/2004/6802,Aditi,Shinde,Female,1992-04-15,+91-7671699325,aditi.shinde807@school.edu.in,Economics,History,B.Ed,21,2004-05-16,TGT,"9,8,5,1,10",,1
+TCH0013,EMP/2002/6048,Avni,Ghosh,Female,1984-08-12,+91-9550003269,avni.ghosh91@school.edu.in,Accountancy,Mathematics,Ph.D.,23,2002-07-25,PGT,"1,10,11",1-A,1
+TCH0014,EMP/2011/7527,Mira,Gupta,Female,1976-12-17,+91-9642503259,mira.gupta763@school.edu.in,Political Science,Geography,M.Com.,14,2011-06-08,TGT,"11,12,7,6",3-B,1
+TCH0015,EMP/2020/1220,Parth,Chatterjee,Male,1992-01-09,+91-9013879315,parth.chatterjee876@school.edu.in,Hindi,Physics,M.Ed,5,2020-04-24,PGT,"10,11,6,7",10-D,1
+TCH0016,EMP/2021/6214,Sai,Kapoor,Male,1981-04-24,+91-9047135605,sai.kapoor412@school.edu.in,Physics,Physical Education,M.Ed,4,2021-06-24,PGT,"7,2,9,12,8",,1
+TCH0017,EMP/2012/7281,Lavanya,Sinha,Female,1982-03-23,+91-8712123688,lavanya.sinha759@school.edu.in,Political Science,Accountancy,M.A.,13,2012-06-13,TGT,"1,9,10,2",3-B,1
+TCH0018,EMP/2015/7927,Rahul,Mishra,Male,1994-05-28,+91-9852351832,rahul.mishra285@school.edu.in,Biology,Music,M.Sc.,10,2015-08-18,TGT,"2,5,1",4-A,1
+TCH0019,EMP/2009/8390,Aadhya,Kulkarni,Female,1992-04-07,+91-8889293253,aadhya.kulkarni859@school.edu.in,Art,Mathematics,M.Com.,16,2009-07-24,PRT,"3,5,8,11",,1
+TCH0020,EMP/2009/2689,Advik,Thakur,Male,1965-12-28,+91-7032345030,advik.thakur939@school.edu.in,History,Social Studies,M.Tech,16,2009-05-27,TGT,"9,11",,1
+TCH0021,EMP/2009/2564,Isha,Dubey,Female,1971-02-07,+91-7959186621,isha.dubey79@school.edu.in,Art,Sanskrit,M.Sc.,16,2009-04-05,TGT,"4,5,7,6",,1
+TCH0022,EMP/2011/3749,Siddharth,Agarwal,Male,1987-02-16,+91-8890841675,siddharth.agarwal336@school.edu.in,Sanskrit,Economics,B.Ed,14,2011-08-17,PGT,"3,9",,1
+TCH0023,EMP/2019/3913,Nikhil,Ghosh,Male,1971-09-07,+91-7823032659,nikhil.ghosh602@school.edu.in,Accountancy,Social Studies,M.Com.,6,2019-08-25,Vice Principal,"9,1",,0
+TCH0024,EMP/2008/3082,Kabir,Das,Male,1987-10-27,+91-9651843281,kabir.das937@school.edu.in,Computer Science,Biology,M.Ed,17,2008-08-12,TGT,"1,10,2",9-C,1
+TCH0025,EMP/2009/7579,Darsh,Patel,Male,1967-04-08,+91-9754605939,darsh.patel904@school.edu.in,Mathematics,Business Studies,Ph.D.,16,2009-05-28,PGT,"6,4",1-C,1
+TCH0026,EMP/2021/2635,Siya,Malhotra,Female,1993-01-20,+91-7964662464,siya.malhotra370@school.edu.in,Mathematics,Economics,Ph.D.,4,2021-06-15,TGT,"4,5,6,11,2",,1
+TCH0027,EMP/2004/7661,Rishi,Sinha,Male,1995-10-28,+91-7990255641,rishi.sinha274@school.edu.in,Physics,Accountancy,M.A.,21,2004-04-14,PGT,"10,2",2-D,0
+TCH0028,EMP/2000/1964,Gauri,Deshpande,Female,1993-12-24,+91-8895422636,gauri.deshpande136@school.edu.in,Mathematics,Computer Science,M.Com.,25,2000-05-26,PRT,"9,3,7,12,11",2-D,1
+TCH0029,EMP/2019/7249,Myra,Chavan,Female,1995-03-01,+91-8835978209,myra.chavan647@school.edu.in,Business Studies,History,M.Tech,6,2019-08-26,Vice Principal,"12,1",10-B,1
+TCH0030,EMP/2017/8468,Nandini,Iyer,Female,1966-12-07,+91-9629564550,nandini.iyer32@school.edu.in,Chemistry,Hindi,M.Tech,8,2017-06-18,TGT,"12,3,5,4,8",,1
+TCH0031,EMP/2005/1732,Pari,Deshmukh,Female,1975-11-17,+91-7996237487,pari.deshmukh24@school.edu.in,Economics,Chemistry,B.A. B.Ed,20,2005-04-26,TGT,"9,1,3,10",7-C,1
+TCH0032,EMP/2022/6588,Prisha,Sen,Female,1966-12-19,+91-9844517531,prisha.sen892@school.edu.in,Business Studies,Mathematics,Ph.D.,3,2022-07-13,Vice Principal,"4,1,2,7",6-D,1
+TCH0033,EMP/2016/9333,Laksh,Kapoor,Male,1994-09-15,+91-7661125809,laksh.kapoor356@school.edu.in,Art,Political Science,M.Sc.,9,2016-04-07,TGT,"7,11",3-A,1
+TCH0034,EMP/2012/1149,Rahul,Pandey,Male,1994-05-16,+91-7889070577,rahul.pandey284@school.edu.in,Sanskrit,Physical Education,M.Ed,13,2012-08-20,PGT,"4,6",12-C,1
+TCH0035,EMP/2005/5748,Lavanya,Jain,Female,1974-02-19,+91-7626379293,lavanya.jain266@school.edu.in,Sanskrit,Physical Education,B.Ed,20,2005-06-08,PGT,"9,4,10",2-D,1
+TCH0036,EMP/2004/7452,Kartik,Bhat,Male,1980-01-26,+91-8844339270,kartik.bhat886@school.edu.in,Social Studies,Sanskrit,B.A. B.Ed,21,2004-08-24,PRT,"7,11,3,10",11-B,1
+TCH0037,EMP/2000/2815,Dev,Rao,Male,1981-04-05,+91-9560132551,dev.rao215@school.edu.in,Sanskrit,Hindi,B.A. B.Ed,25,2000-08-17,TGT,"11,7,8,12",,1
+TCH0038,EMP/2007/8858,Kavya,Thakur,Female,1973-12-09,+91-8753681667,kavya.thakur851@school.edu.in,Sanskrit,Art,Ph.D.,18,2007-05-03,PGT,"2,8,6",,1
+TCH0039,EMP/2016/9004,Radhika,Patil,Female,1973-09-23,+91-9047102357,radhika.patil90@school.edu.in,Biology,Mathematics,M.Com.,9,2016-08-13,PRT,"7,8,6",,1
+TCH0040,EMP/2013/5213,Siddharth,Deshpande,Male,1975-04-09,+91-8764527181,siddharth.deshpande365@school.edu.in,Art,Economics,M.Ed,12,2013-06-25,PRT,"2,10,7,8",,1
+TCH0041,EMP/2011/9262,Vihaan,Bhandari,Male,1991-03-02,+91-7824798481,vihaan.bhandari406@school.edu.in,Computer Science,Social Studies,B.Ed,14,2011-04-25,PRT,"11,12,3,10,5",9-C,1
+TCH0042,EMP/2015/7251,Arnav,Kale,Male,1978-09-02,+91-8794346382,arnav.kale533@school.edu.in,Biology,Geography,B.A. B.Ed,10,2015-04-03,PRT,"5,1",,1
+TCH0043,EMP/2010/4590,Divya,Sharma,Female,1979-12-08,+91-9380730536,divya.sharma409@school.edu.in,Mathematics,Political Science,M.Tech,15,2010-04-12,TGT,"7,1,6,4",,1
+TCH0044,EMP/2008/7601,Siddharth,Chatterjee,Male,1985-12-05,+91-9028258043,siddharth.chatterjee50@school.edu.in,Art,Economics,M.Sc.,17,2008-07-23,HOD,"10,12,2,11",,1
+TCH0045,EMP/2016/6970,Avni,Sen,Female,1988-01-06,+91-9757971671,avni.sen994@school.edu.in,Chemistry,Accountancy,M.Sc.,9,2016-08-08,HOD,"8,6,11,9,3",3-D,1
+TCH0046,EMP/2012/8826,Ahana,Mahajan,Female,1985-09-09,+91-9463072911,ahana.mahajan3@school.edu.in,Accountancy,Art,B.Ed,13,2012-07-27,TGT,"10,9",8-C,1
+TCH0047,EMP/2009/2572,Kartik,Jadhav,Male,1990-05-20,+91-7732174293,kartik.jadhav348@school.edu.in,History,Computer Science,M.Ed,16,2009-07-09,PRT,"9,11,4",,1
+TCH0048,EMP/2013/6742,Kavya,Sen,Female,1977-06-19,+91-7914925845,kavya.sen493@school.edu.in,Physical Education,English,Ph.D.,12,2013-06-10,PRT,"11,4,5,12",,1
+TCH0049,EMP/2010/7726,Anvi,Dubey,Female,1990-10-06,+91-9610358749,anvi.dubey850@school.edu.in,Physics,Geography,B.Ed,15,2010-07-13,Vice Principal,"5,2,6",10-D,1
+TCH0050,EMP/2003/6456,Aryan,Singh,Male,1985-05-15,+91-9040697766,aryan.singh785@school.edu.in,Physics,Economics,M.Com.,22,2003-05-22,PGT,"12,9,8,3",6-D,0
+TCH0051,EMP/2007/6613,Tanvi,Shah,Female,1973-11-24,+91-7075471138,tanvi.shah317@school.edu.in,Physics,Chemistry,B.A. B.Ed,18,2007-08-11,HOD,"8,4,10,6",3-C,0
+TCH0052,EMP/2015/5938,Divya,Verma,Female,1991-08-12,+91-7977321614,divya.verma101@school.edu.in,Accountancy,Physical Education,B.A. B.Ed,10,2015-04-05,PRT,"11,12,2,4",,1
+TCH0053,EMP/2000/8618,Siya,Sharma,Female,1968-05-13,+91-7789578096,siya.sharma456@school.edu.in,Geography,Physics,M.Com.,25,2000-07-22,TGT,"5,2,9",6-C,0
+TCH0054,EMP/2022/7593,Yash,Deshmukh,Male,1966-02-15,+91-9835630687,yash.deshmukh624@school.edu.in,Accountancy,Political Science,M.Ed,3,2022-04-03,TGT,"11,1",,1
+TCH0055,EMP/2018/1547,Nikhil,Ghosh,Male,1980-09-14,+91-7690179314,nikhil.ghosh183@school.edu.in,History,Sanskrit,Ph.D.,7,2018-06-22,PGT,"2,6,10",,1
+TCH0056,EMP/2011/4243,Siya,Mukherjee,Female,1990-07-16,+91-9559394059,siya.mukherjee901@school.edu.in,Social Studies,Business Studies,B.A. B.Ed,14,2011-04-16,PGT,"3,9,11",2-B,1
+TCH0057,EMP/2019/1119,Anika,Bhosale,Female,1967-05-07,+91-9891013957,anika.bhosale480@school.edu.in,Computer Science,Economics,M.A.,6,2019-07-21,TGT,"7,12,4",12-D,1
+TCH0058,EMP/2000/4211,Kian,Mehta,Male,1987-11-01,+91-7016918868,kian.mehta937@school.edu.in,Music,Physical Education,M.Sc.,25,2000-06-25,PRT,"9,3,7,1",,0
+TCH0059,EMP/2007/8714,Sara,Pawar,Female,1990-10-09,+91-7619168351,sara.pawar145@school.edu.in,Political Science,Sanskrit,B.A. B.Ed,18,2007-07-19,PGT,"11,3,4",,1
+TCH0060,EMP/2010/3606,Trisha,Pawar,Female,1990-07-03,+91-7924523087,trisha.pawar600@school.edu.in,Biology,Music,M.A.,15,2010-06-26,PRT,"7,6,8,5",,1
+TCH0061,EMP/2011/6194,Gauri,Chauhan,Female,1973-05-03,+91-9779896822,gauri.chauhan100@school.edu.in,Biology,Accountancy,M.Ed,14,2011-05-13,HOD,"9,1,6",4-A,1
+TCH0062,EMP/2016/5930,Sahil,Gaikwad,Male,1989-02-18,+91-7747508261,sahil.gaikwad883@school.edu.in,Political Science,Music,M.Ed,9,2016-06-13,PRT,"1,2,5",,1
+TCH0063,EMP/2003/2823,Dhruv,Mehta,Male,1970-08-06,+91-8837790964,dhruv.mehta934@school.edu.in,Hindi,Political Science,B.Ed,22,2003-05-01,TGT,"5,8,11,1,9",,1
+TCH0064,EMP/2007/8619,Zara,Reddy,Female,1977-03-24,+91-8760086907,zara.reddy3@school.edu.in,Sanskrit,Art,B.A. B.Ed,18,2007-07-23,HOD,"3,2,8,12,1",9-D,1
+TCH0065,EMP/2018/4643,Anika,Saxena,Female,1966-04-27,+91-7031721163,anika.saxena397@school.edu.in,Business Studies,Geography,Ph.D.,7,2018-07-09,TGT,"5,2,10,11,7",12-B,1
+TCH0066,EMP/2018/8971,Nikhil,Shah,Male,1985-01-08,+91-9427540698,nikhil.shah345@school.edu.in,Hindi,Chemistry,M.Tech,7,2018-04-04,TGT,"9,10,2,4",9-B,1
+TCH0067,EMP/2005/2931,Saanvi,Ghosh,Female,1995-06-08,+91-9790310669,saanvi.ghosh255@school.edu.in,History,Political Science,M.A.,20,2005-06-06,TGT,"3,12",10-A,1
+TCH0068,EMP/2000/3319,Nisha,Mehta,Female,1992-10-08,+91-9559399803,nisha.mehta559@school.edu.in,Music,Social Studies,M.Com.,25,2000-05-22,HOD,"1,7",4-C,1
+TCH0069,EMP/2012/4566,Isha,Bhat,Female,1989-12-23,+91-9326390366,isha.bhat27@school.edu.in,History,Biology,M.Ed,13,2012-06-02,HOD,"3,9",2-C,1
+TCH0070,EMP/2007/6552,Khushi,Sinha,Female,1990-10-15,+91-9776140069,khushi.sinha952@school.edu.in,English,Music,M.Ed,18,2007-07-23,PGT,"6,7",,1
+TCH0071,EMP/2022/7258,Ananya,Iyer,Female,1965-06-03,+91-9144006749,ananya.iyer554@school.edu.in,History,Social Studies,Ph.D.,3,2022-05-08,TGT,"2,9,8,7",,1
+TCH0072,EMP/2008/4677,Aaradhya,Sharma,Female,1974-06-21,+91-7888802221,aaradhya.sharma819@school.edu.in,Business Studies,Art,M.Sc.,17,2008-04-21,PRT,"1,4,11",10-D,1
+TCH0073,EMP/2008/6575,Sneha,Bhosale,Female,1968-01-10,+91-8847702585,sneha.bhosale919@school.edu.in,Art,Hindi,M.Com.,17,2008-07-24,PRT,"9,2",,1
+TCH0074,EMP/2001/8454,Tara,Rao,Female,1984-10-12,+91-7887808888,tara.rao736@school.edu.in,Art,Geography,M.Tech,24,2001-07-27,PGT,"1,8",,1
+TCH0075,EMP/2009/6752,Isha,Sen,Female,1978-06-15,+91-9678684052,isha.sen579@school.edu.in,Accountancy,Art,M.A.,16,2009-05-13,PRT,"5,9,6",11-A,1
+TCH0076,EMP/2021/7229,Rishi,Saxena,Male,1981-06-24,+91-9111531126,rishi.saxena864@school.edu.in,History,Physical Education,B.A. B.Ed,4,2021-08-24,TGT,"2,4,9,3,7",,1
+TCH0077,EMP/2019/7137,Siya,Ghosh,Female,1979-01-25,+91-7037530821,siya.ghosh584@school.edu.in,Physical Education,Political Science,M.A.,6,2019-07-08,TGT,"12,8,2",,1
+TCH0078,EMP/2003/3130,Palak,Jain,Female,1982-10-14,+91-9635156609,palak.jain677@school.edu.in,Accountancy,Hindi,B.A. B.Ed,22,2003-08-21,HOD,"4,3,12,10",,1
+TCH0079,EMP/2008/5586,Ishaan,Chauhan,Male,1977-01-26,+91-9113695007,ishaan.chauhan855@school.edu.in,Social Studies,Political Science,M.Com.,17,2008-05-22,HOD,"10,6,3,4,11",,1
+TCH0080,EMP/2002/3237,Angel,Mahajan,Female,1981-06-08,+91-9016517633,angel.mahajan34@school.edu.in,Geography,Political Science,M.Com.,23,2002-06-17,HOD,"5,9,8,6",2-A,1
